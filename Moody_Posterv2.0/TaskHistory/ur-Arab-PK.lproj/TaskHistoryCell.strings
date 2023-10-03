@@ -1,0 +1,25 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "C29-3O-RD3"; */
+"C29-3O-RD3.text" = "Label";
+
+/* Class = "UILabel"; text = "Stars"; ObjectID = "ID2-7x-EV2"; */
+"ID2-7x-EV2.text" = "درجہ";
+
+/* Class = "UIButton"; normalTitle = "View More"; ObjectID = "M7l-T6-9TE"; */
+"M7l-T6-9TE.normalTitle" = "مزید دیکھیں";
+
+/* Class = "UILabel"; text = "01-Jan-2020"; ObjectID = "Nm3-FE-4kz"; */
+"Nm3-FE-4kz.text" = "01-Jan-2020";
+
+/* Class = "UILabel"; text = "Status:"; ObjectID = "cvJ-ev-Atz"; */
+"cvJ-ev-Atz.text" =  "حالت";
+
+/* Class = "UILabel"; text = "Rs300"; ObjectID = "iuy-1g-byu"; */
+"iuy-1g-byu.text" = "Rs300";
+
+/* Class = "UILabel"; text = "Anonymous"; ObjectID = "rsh-Ha-bjd"; */
+"rsh-Ha-bjd.text" = "گمنام";
+"k1e-XZ-PV0.normalTitle" = "مکمل";
+"8Ms-GJ-T4a.normalTitle" = "منسوخ کریں";
+"0qy-b6-q0b.normalTitle" = "تفصیلات دیکھیں";
+"Sib-Jw-yBt.text" = "ٹاپ اپ ٹاسک";

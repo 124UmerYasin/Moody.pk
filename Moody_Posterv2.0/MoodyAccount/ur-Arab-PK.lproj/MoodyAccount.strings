@@ -1,0 +1,137 @@
+
+/* Class = "UILabel"; text = "PKR"; ObjectID = "0sz-Fb-DPD"; */
+"0sz-Fb-DPD.text" = "PKR";
+
+/* Class = "UILabel"; text = "RS: "; ObjectID = "4M5-zf-6WK"; */
+"4M5-zf-6WK.text" = "RS: ";
+
+/* Class = "UILabel"; text = "Choose Month"; ObjectID = "4Mt-sh-ys5"; */
+"4Mt-sh-ys5.text" = "ماہ منتخب کریں";
+
+/* Class = "UILabel"; text = "Rs 0 has been deducted from your accountnt as the task fare. "; ObjectID = "5RU-z2-1do"; */
+"5RU-z2-1do.text" = "ٹاسک کرایہ کے بطور آپ کے اکاؤنٹنٹ سے 0 روپے کاٹ دیئے گئے ہیں۔";
+
+/* Class = "UILabel"; text = "150"; ObjectID = "6a1-ny-12b"; */
+//"6a1-ny-12b.text" = "150";
+
+/* Class = "UILabel"; text = "PKR"; ObjectID = "7qP-RO-2eP"; */
+"7qP-RO-2eP.text" = "PKR";
+
+/* Class = "UILabel"; text = "Rs 0"; ObjectID = "9Sj-no-cAg"; */
+//"9Sj-no-cAg.text" = "Rs 0";
+
+/* Class = "UILabel"; text = "JAN"; ObjectID = "Bdj-7e-qyb"; */
+"Bdj-7e-qyb.text" = "جنوری";
+
+/* Class = "UITextField"; placeholder = "500"; ObjectID = "EKD-cb-iCT"; */
+"EKD-cb-iCT.placeholder" = "500";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "HYj-gl-hIb"; */
+"HYj-gl-hIb.normalTitle" = "جاری رہے";
+
+/* Class = "UILabel"; text = "Upload Receipt"; ObjectID = "I9S-nC-MqY"; */
+"I9S-nC-MqY.text" = "رسید اپ لوڈ کریں";
+
+/* Class = "UILabel"; text = "03228083063"; ObjectID = "IGS-Ya-vXc"; */
+"IGS-Ya-vXc.text" = "ہمارا ایزی پیسہ اکاؤنٹ اس نمبر پر فعال ہے۔";
+
+/* Class = "UILabel"; text = "Total Distance"; ObjectID = "KlS-V1-QqA"; */
+"KlS-V1-QqA.text" = "کل فاصلہ";
+
+/* Class = "UILabel"; text = "03123456789"; ObjectID = "Kyw-we-y05"; */
+"Kyw-we-y05.text" = "03123456789";
+
+/* Class = "UILabel"; text = "Pay in Hand"; ObjectID = "LBE-BZ-owJ"; */
+"LBE-BZ-owJ.text" = "ہاتھ سے ادا کریں";
+
+/* Class = "UILabel"; text = "Our tasker will come at your door step to collect payment"; ObjectID = "rBz-MD-6is"; */
+"rBz-MD-6is.text" = "ہمارا سوار ادائیگی جمع کرنے کے لیے آپ کے دروازے پر آئے گا۔";
+
+/* Class = "UILabel"; text = "Rs 0"; ObjectID = "Orf-ea-dvw"; */
+"Orf-ea-dvw.text" = "Rs 0";
+
+/* Class = "UILabel"; text = "Rs 0"; ObjectID = "QHc-Tz-BWT"; */
+"QHc-Tz-BWT.text" = "Rs 0";
+
+/* Class = "UILabel"; text = "0 min"; ObjectID = "Tom-Ei-gCD"; */
+"Tom-Ei-gCD.text" = "0 min";
+
+/* Class = "UILabel"; text = "Moody Wallet Balance"; ObjectID = "WdD-0D-kZ3"; */
+"WdD-0D-kZ3.text" = "موڈی والیٹ بیلنس";
+
+/* Class = "UILabel"; text = "No Transaction Exists"; ObjectID = "XRo-Ye-4Es"; */
+"XRo-Ye-4Es.text" = "کوئی لین دین موجود نہیں ہے";
+
+/* Class = "UIButton"; normalTitle = "See Transactions"; ObjectID = "Xp4-Nl-2Xq"; */
+"Xp4-Nl-2Xq.normalTitle" = "لین دین دیکھیں";
+
+/* Class = "UILabel"; text = "Task Receipt"; ObjectID = "dn3-cB-YqM"; */
+"dn3-cB-YqM.text" =  "ٹاسک رسید";
+
+/* Class = "UILabel"; text = "Base Fare"; ObjectID = "eZA-YO-qRy"; */
+"eZA-YO-qRy.text" = "بیس کرایہ";
+
+/* Class = "UILabel"; text = "Top up through"; ObjectID = "f5l-bZ-zjI"; */
+"f5l-bZ-zjI.text" = "درج ذیل سے کریڈٹ ریچارج کریں";
+//درج ذیل سے کریڈٹ ریچارج کریں
+/* Class = "UILabel"; text = "Enter The Amount You Want To Pay Via Rider"; ObjectID = "giP-f7-nhO"; */
+"giP-f7-nhO.text" = "رقم بھیجنے کے بعد نیچے کلک کریں";
+
+/* Class = "UILabel"; text = "After sending the amount tap the below button"; ObjectID = "hRP-AL-b0I"; Note = "m"; */
+"hRP-AL-b0I.text" = "رقم بھیجنے کے بعد نیچے والے بٹن پر ٹیپ کریں";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "iyg-qE-eFb"; */
+"iyg-qE-eFb.normalTitle" = "جاری رہے";
+
+/* Class = "UIButton"; normalTitle = "View Payment Receipt"; ObjectID = "m2h-VE-K9P"; */
+"m2h-VE-K9P.normalTitle" = "ادائیگی کی رسید دیکھیں";
+
+/* Class = "UILabel"; text = "Thanks! We will update your balance as soon as receive your amount"; ObjectID = "nZU-Xh-1TU"; */
+"nZU-Xh-1TU.text" =  "شکریہ! ہم آپ کی رقم وصول کرتے ہی آپ کے بیلنس کو اپ ڈیٹ کردیں گے";
+
+/* Class = "UILabel"; text = "03123456789"; ObjectID = "pGs-dC-Yph"; */
+"pGs-dC-Yph.text" = "03123456789";
+
+/* Class = "UILabel"; text = "Total Charges"; ObjectID = "q5f-Jo-86r"; */
+"q5f-Jo-86r.text" = "کل چارجز";
+
+/* Class = "UILabel"; text = "Please send your desired amount to our JazzCash account."; ObjectID = "rHY-D7-tib"; */
+"rHY-D7-tib.text" = "براہ کرم اپنی مطلوبہ رقم ہمارے جازکش اکاؤنٹ میں بھیجیں.";
+
+/* Class = "UILabel"; text = "Time Taken"; ObjectID = "s16-hu-YHp"; */
+"s16-hu-YHp.text" = "وقت لیا";
+
+/* Class = "UILabel"; text = "Our Mobile Number:"; ObjectID = "wcv-vJ-frN"; */
+"wcv-vJ-frN.text" = "موڈی اکاؤنٹ نمبر";
+
+/* Class = "UILabel"; text = "Discount"; ObjectID = "42U-rQ-bSv"; */
+"42U-rQ-bSv.text" = "چھوٹ";
+
+
+/* Class = "UILabel"; text = "Please enter the desired amount for Top-up"; ObjectID = "Xl1-zo-crf"; */
+"Xl1-zo-crf.text" = "براہ کرم ٹاپ اپ کے لیے مطلوبہ رقم درج کریں";
+
+/* Class = "UIButton"; normalTitle = "Send Request"; ObjectID = "F2E-4D-Nl3"; */
+"F2E-4D-Nl3.normalTitle" = "درخواست بھیجیں";
+
+"00u-Lg-IGG.text" = "پرومو بیلنس";
+
+"ZFU-IX-Mwy.text" = "پرومو بیلنس صرف سواریوں کے لیے استعمال ہوتا ہے";
+"Nvd-fU-Xcr.placeholder" = "500 (کم سے کم)";
+
+"9LO-q3-4PE.text" = "ادائیگی کا طریقہ منتخب کریں";
+"zcC-Sh-9E0.text" = "ایزی پیسہ کے ذریعے اپنے موڈی پرس کو ریچارج کرنے کا طریقہ منتخب کریں";
+"Q60-nn-ezc.text" = "ایزی پیسہ ایپ";
+"h1a-Dn-1j0.text" = "ایزی پیسہ شاپ";
+"BpH-Vb-Obq.text" = "ایزی پیسہ ڈپازٹ";
+"Hvh-Le-Bjd.text" = "رقم جمع کرنے کے لیے اپنی ایزی پیسہ رقم کی اسناد درج کریں";
+
+"lR1-Z5-ie1.text" = "ایزی پیسہ موبائل نمبر";
+"v0j-8H-6yN.text" = "جمع کرنے کی رقم";
+"gve-YD-Gkt.normalTitle" = "تصدیق کریں";
+
+"zAg-CF-r8o.text" = "ٹرانزیکشن ID*";
+
+"7hm-16-a96.text" = "زیادہ سے زیادہ رقم 10000";
+
+

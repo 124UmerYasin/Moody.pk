@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="axiforma_bold.otf">
+            <string>Axiforma-Bold</string>
+        </array>
+        <array key="axiforma_regular.otf">
+            <string>Axiforma-Regular</string>
+        </array>
+        <array key="axiforma_semi_bold.otf">
+            <string>Axiforma-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="573" id="IAa-fv-f5E" customClass="ReceiptView" customModule="Moody_pk" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="305" height="573"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="IAa-fv-f5E" id="7tn-MV-bbL">
+                <rect key="frame" x="0.0" y="0.0" width="305" height="573"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="U7N-P5-kVD">
+                        <rect key="frame" x="16" y="160" width="273" height="248"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LO6-rm-kb2">
+                                <rect key="frame" x="0.0" y="0.0" width="273" height="248"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="fLx-gk-Zwu">
+                                        <rect key="frame" x="12" y="8" width="249" height="232"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Task Receipt" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ig8-0I-E6D">
+                                                <rect key="frame" x="0.0" y="0.0" width="249" height="16"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="16" id="xl7-Ko-2WB"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" name="Axiforma-Bold" family="Axiforma" pointSize="14"/>
+                                                <color key="textColor" name="AccentColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <stackView opaque="NO" contentMode="scaleAspectFill" semanticContentAttribute="forceLeftToRight" translatesAutoresizingMaskIntoConstraints="NO" id="gJ5-P9-XkJ">
+                                                <rect key="frame" x="0.0" y="24" width="249" height="110"/>
+                                                <subviews>
+                                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="zFU-IG-XWa">
+                                                        <rect key="frame" x="0.0" y="0.0" width="194" height="110"/>
+                                                        <subviews>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Base Fare" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VOh-ZA-T6a">
+                                                                <rect key="frame" x="0.0" y="0.0" width="194" height="18"/>
+                                                                <constraints>
+                                                                    <constraint firstAttribute="height" constant="18" id="gpc-Rt-b8G"/>
+                                                                </constraints>
+                                                                <fontDescription key="fontDescription" name="Axiforma-Regular" family="Axiforma" pointSize="14"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Per Minute Rate" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Yzi-km-KfR">
+                                                                <rect key="frame" x="0.0" y="23" width="194" height="18"/>
+                                                                <constraints>
+                                                                    <constraint firstAttribute="height" constant="18" id="kVi-8l-Exu"/>
+                                                                </constraints>
+                                                                <fontDescription key="fontDescription" name="Axiforma-Regular" family="Axiforma" pointSize="14"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Per Km Rate" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="275-Yn-LHt">
+                                                                <rect key="frame" x="0.0" y="46" width="194" height="18"/>
+                                                                <constraints>
+                                                                    <constraint firstAttribute="height" constant="18" id="0Nh-Rm-4aQ"/>
+                                                                </constraints>
+                                                                <fontDescription key="fontDescription" name="Axiforma-Regular" family="Axiforma" pointSize="14"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Total Distance" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0Nk-UU-FtT">
+                                                                <rect key="frame" x="0.0" y="69" width="194" height="18"/>
+                                                                <constraints>
+                                                                    <constraint firstAttribute="height" constant="18" id="XqF-bU-xHj"/>
+                                                                </constraints>
+                                                                <fontDescription key="fontDescription" name="Axiforma-Regular" family="Axiforma" pointSize="14"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Time Taken (H:MM:ss)" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EhJ-Yb-EaP">
+                                                                <rect key="frame" x="0.0" y="92" width="194" height="18"/>
+                                                                <constraints>
+                                                                    <constraint firstAttribute="height" constant="18" id="dVN-VZ-ROb"/>
+                                                                </constraints>
+                                                                <fontDescription key="fontDescription" name="Axiforma-Regular" family="Axiforma" pointSize="14"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                        </subviews>
+                                                    </stackView>
+                                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="10y-Hv-4SU">
+                                                        <rect key="frame" x="194" y="0.0" width="55" height="110"/>
+                                                        <subviews>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Rs: 190" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DJm-lP-1XW">
+                                                                <rect key="frame" x="0.0" y="0.0" width="55" height="17"/>
+                                                                <fontDescription key="fontDescription" name="Axiforma-Regular" family="Axiforma" pointSize="14"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" text="Rs: 2" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qSa-8S-hxf">
+                                                                <rect key="frame" x="0.0" y="22" width="55" height="17"/>
+                                                                <fontDescription key="fontDescription" name="Axiforma-Regular" family="Axiforma" pointSize="14"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Rs:6.0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JPo-hp-Ntk">
+                                                                <rect key="frame" x="0.0" y="44" width="55" height="17.5"/>
+                                                                <fontDescription key="fontDescription" name="Axiforma-Regular" family="Axiforma" pointSize="14"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2km" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qww-AW-lKe">
+                                                                <rect key="frame" x="0.0" y="66.5" width="55" height="17"/>
+                                                                <fontDescription key="fontDescription" name="Axiforma-Regular" family="Axiforma" pointSize="14"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="60 mins" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GXb-6H-2gk">
+                                                                <rect key="frame" x="0.0" y="88.5" width="55" height="21.5"/>
+                                                                <fontDescription key="fontDescription" name="Axiforma-Regular" family="Axiforma" pointSize="14"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                        </subviews>
+                                                    </stackView>
+                                                </subviews>
+                                                <constraints>
+                                                    <constraint firstItem="10y-Hv-4SU" firstAttribute="leading" secondItem="gJ5-P9-XkJ" secondAttribute="leading" constant="194" id="D06-az-byE"/>
+                                                </constraints>
+                                            </stackView>
+                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Tem-Sj-rmO" userLabel="lineView">
+                                                <rect key="frame" x="0.0" y="142" width="249" height="1"/>
+                                                <color key="backgroundColor" systemColor="systemGray3Color"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="1" id="5Kj-60-4gE"/>
+                                                </constraints>
+                                            </view>
+                                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" spacing="40" translatesAutoresizingMaskIntoConstraints="NO" id="dXL-Fc-tjx">
+                                                <rect key="frame" x="0.0" y="151" width="249" height="37"/>
+                                                <subviews>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" text="Task Charges" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Tv-5v-ymj">
+                                                        <rect key="frame" x="0.0" y="0.0" width="129.5" height="37"/>
+                                                        <fontDescription key="fontDescription" name="Axiforma-SemiBold" family="Axiforma" pointSize="14"/>
+                                                        <nil key="textColor"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Rs: 150" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lf4-Q9-VnP">
+                                                        <rect key="frame" x="169.5" y="0.0" width="79.5" height="37"/>
+                                                        <fontDescription key="fontDescription" name="Axiforma-Bold" family="Axiforma" pointSize="14"/>
+                                                        <color key="textColor" name="Green"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
+                                            </stackView>
+                                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" spacing="40" translatesAutoresizingMaskIntoConstraints="NO" id="oAy-Oa-GeB">
+                                                <rect key="frame" x="0.0" y="196" width="249" height="14"/>
+                                                <subviews>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Discount" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UrC-I0-aUl">
+                                                        <rect key="frame" x="0.0" y="0.0" width="107.5" height="14"/>
+                                                        <fontDescription key="fontDescription" name="Axiforma-SemiBold" family="Axiforma" pointSize="14"/>
+                                                        <nil key="textColor"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Rs: 50" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Z2d-7k-pWo">
+                                                        <rect key="frame" x="147.5" y="0.0" width="101.5" height="14"/>
+                                                        <fontDescription key="fontDescription" name="Axiforma-Bold" family="Axiforma" pointSize="14"/>
+                                                        <color key="textColor" name="Green"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
+                                            </stackView>
+                                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" spacing="40" translatesAutoresizingMaskIntoConstraints="NO" id="HrB-jw-hsB">
+                                                <rect key="frame" x="0.0" y="218" width="249" height="14"/>
+                                                <subviews>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" text="Payable Amount" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zKs-Eb-GFa">
+                                                        <rect key="frame" x="0.0" y="0.0" width="142.5" height="14"/>
+                                                        <fontDescription key="fontDescription" name="Axiforma-SemiBold" family="Axiforma" pointSize="14"/>
+                                                        <nil key="textColor"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Rs: 150" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="keu-0q-tzB">
+                                                        <rect key="frame" x="182.5" y="0.0" width="66.5" height="14"/>
+                                                        <fontDescription key="fontDescription" name="Axiforma-Bold" family="Axiforma" pointSize="14"/>
+                                                        <color key="textColor" name="Green"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
+                                            </stackView>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                                <color key="backgroundColor" red="0.96862745100000003" green="0.97647058819999999" blue="0.99607843139999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="fLx-gk-Zwu" secondAttribute="trailing" constant="12" id="DQ6-3a-5Tj"/>
+                                    <constraint firstItem="fLx-gk-Zwu" firstAttribute="top" secondItem="LO6-rm-kb2" secondAttribute="top" constant="8" id="Xv0-l8-m8c"/>
+                                    <constraint firstItem="fLx-gk-Zwu" firstAttribute="leading" secondItem="LO6-rm-kb2" secondAttribute="leading" constant="12" id="kgo-NQ-qFZ"/>
+                                    <constraint firstAttribute="bottom" secondItem="fLx-gk-Zwu" secondAttribute="bottom" constant="8" id="tlB-YD-EZY"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                    </stackView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Task Receipt" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8qY-tz-tPL">
+                        <rect key="frame" x="0.0" y="0.0" width="305" height="48"/>
+                        <color key="backgroundColor" red="0.12941176469999999" green="0.33333333329999998" blue="0.28627450980000002" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="48" id="52f-Yh-7O5"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Axiforma-SemiBold" family="Axiforma" pointSize="14"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view tag="786" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GEN-Uh-qW1">
+                        <rect key="frame" x="16" y="52" width="273" height="100"/>
+                        <color key="backgroundColor" red="0.96862745100000003" green="0.97647058819999999" blue="0.99607843139999996" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="100" id="xjf-9F-L8J"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="8qY-tz-tPL" firstAttribute="leading" secondItem="7tn-MV-bbL" secondAttribute="leading" id="0oN-Qi-jGf"/>
+                    <constraint firstItem="U7N-P5-kVD" firstAttribute="leading" secondItem="7tn-MV-bbL" secondAttribute="leadingMargin" id="KAJ-bE-4gg"/>
+                    <constraint firstItem="U7N-P5-kVD" firstAttribute="top" secondItem="GEN-Uh-qW1" secondAttribute="bottom" constant="8" id="Q9H-Py-cvG"/>
+                    <constraint firstItem="GEN-Uh-qW1" firstAttribute="top" secondItem="8qY-tz-tPL" secondAttribute="bottom" constant="4" id="Vlq-Ms-Ifc"/>
+                    <constraint firstAttribute="trailing" secondItem="8qY-tz-tPL" secondAttribute="trailing" id="ZMP-kF-LBM"/>
+                    <constraint firstItem="8qY-tz-tPL" firstAttribute="top" secondItem="7tn-MV-bbL" secondAttribute="top" id="dNC-0D-JNF"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="U7N-P5-kVD" secondAttribute="trailing" id="fQr-fb-atO"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="GEN-Uh-qW1" secondAttribute="trailing" id="hMW-SQ-tpf"/>
+                    <constraint firstItem="GEN-Uh-qW1" firstAttribute="leading" secondItem="7tn-MV-bbL" secondAttribute="leadingMargin" id="lIB-yf-ofa"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="BgY-PF-qPW"/>
+            <connections>
+                <outlet property="baseFare" destination="DJm-lP-1XW" id="dIK-mT-Iby"/>
+                <outlet property="discount" destination="Z2d-7k-pWo" id="849-HT-KHW"/>
+                <outlet property="discountStringLabel" destination="UrC-I0-aUl" id="wpH-K5-9cx"/>
+                <outlet property="fullyOuterView" destination="7tn-MV-bbL" id="RN7-x0-zs3"/>
+                <outlet property="payableAmount" destination="keu-0q-tzB" id="4do-sz-FVx"/>
+                <outlet property="perKmRate" destination="JPo-hp-Ntk" id="5h0-wU-bpg"/>
+                <outlet property="perMinRate" destination="qSa-8S-hxf" id="17H-zI-DnN"/>
+                <outlet property="purchasingView" destination="GEN-Uh-qW1" id="Qww-tf-zsv"/>
+                <outlet property="receiptViewHeight" destination="xjf-9F-L8J" id="tGw-ON-nvJ"/>
+                <outlet property="timeTaken" destination="GXb-6H-2gk" id="gGF-Qx-T1E"/>
+                <outlet property="totalAmount" destination="lf4-Q9-VnP" id="K3O-Wf-br0"/>
+                <outlet property="totalDistance" destination="Qww-AW-lKe" id="FaU-kE-csb"/>
+            </connections>
+            <point key="canvasLocation" x="-103.62318840579711" y="88.727678571428569"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <namedColor name="AccentColor">
+            <color red="1" green="0.75300002098083496" blue="0.2630000114440918" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="Green">
+            <color red="0.1289999932050705" green="0.33300000429153442" blue="0.28600001335144043" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemGray3Color">
+            <color red="0.7803921568627451" green="0.7803921568627451" blue="0.80000000000000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

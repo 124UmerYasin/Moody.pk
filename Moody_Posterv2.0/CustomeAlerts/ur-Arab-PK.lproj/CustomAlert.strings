@@ -1,0 +1,49 @@
+
+
+/* Class = "UIButton"; normalTitle = "Yes, Finish"; ObjectID = "2yQ-72-44S"; */
+"2yQ-72-44S.normalTitle" = "ہاں ، ختم کرو";
+
+/* Class = "UILabel"; text = "Are you sure you want to finish the task?"; ObjectID = "HBA-T2-GU3"; */
+"HBA-T2-GU3.text" = "کیا آپ واقعی کام ختم کرنا چاہتے ہیں؟";
+
+/* Class = "UILabel"; text = "Instructions!"; ObjectID = "N0W-4f-L7o"; */
+"N0W-4f-L7o.text" = "ہدایات!";
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "TGB-bu-KaI"; */
+"TGB-bu-KaI.normalTitle" = "نہیں";
+
+/* Class = "UILabel"; text = "Rate your experience"; ObjectID = "TsQ-Tg-X4X"; */
+"TsQ-Tg-X4X.text" = "اپنے تجربے کی درجہ بندی کریں";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "VPf-Dw-aJx"; */
+"VPf-Dw-aJx.normalTitle" = "آگے";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "acB-Wj-u1G"; */
+"acB-Wj-u1G.normalTitle" = "چھوڑ دو";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ikJ-yQ-WAz"; */
+"ikJ-yQ-WAz.text" = "لاگ آوٹ";
+
+/* Class = "UITextField"; placeholder = "Type Here"; ObjectID = "omf-fK-5gk"; */
+"omf-fK-5gk.placeholder" = "یہاں ٹائپ کریں";
+
+/* Class = "UILabel"; text = "Confirmation!"; ObjectID = "vK5-O0-Bu0"; */
+"vK5-O0-Bu0.text" = "تصدیق!";
+
+/* Class = "UILabel"; text = "Notify"; ObjectID =
+ "dNA-hh-vUC"; */
+"dNA-hh-vUC.text" = "مطلع کریں";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "2eM-xv-FZM"; */
+"2eM-xv-FZM.text" = "منسوخ کریں";
+"KDf-aJ-7lG.text" = "خبردار!";
+"H1D-e7-y6b.text" = "چیٹ میں آپ کا کام چل رہا ہے۔ براہ کرم پہلے کام کو مکمل کریں اور پھر لاگ آؤٹ.";
+"mu3-yb-yjl.text" = "آپ کا لین دین چل رہا ہے";
+"bAH-Gy-Q6u.text" = "جمع رقم:";
+"SzL-vW-15s.text" = "اپنی ادائیگی کی درخواست کو آگے بڑھانے کے لیے Easypaisa کے ساتھ جاری رکھیں۔";
+
+"Bbn-cD-JNN.text" = "فی منٹ";
+"fNn-DX-na6.text" =  "فی کلومیٹر";
+"dt9-jR-BYJ.text" = "کل فاصلہ";
+"8o3-y1-srF.text" = "مکمل وقت";
+"HMI-j9-Owz.text" = "بنیادی کرايہ";
+"3FV-en-MQy.text" = "کرایہ کی تفصیلات";

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17505"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Kastelov - Axiforma Medium.otf">
+            <string>Axiforma-Medium</string>
+        </array>
+        <array key="Kastelov - Axiforma Regular.otf">
+            <string>Axiforma-Regular</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--InviteA Friend-->
+        <scene sceneID="xEy-3e-R2L">
+            <objects>
+                <viewController storyboardIdentifier="InviteAFriend" useStoryboardIdentifierAsRestorationIdentifier="YES" id="jHL-kp-PBk" customClass="InviteAFriend" customModule="Moody_TaskerV2_0" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="qaE-2A-nHA">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ReferAFriend" translatesAutoresizingMaskIntoConstraints="NO" id="X3z-pF-Z6m">
+                                <rect key="frame" x="145" y="108" width="124" height="124"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="124" id="4E0-Jv-2wg"/>
+                                    <constraint firstAttribute="width" constant="124" id="LgN-Uv-aDC"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Get your free rides by inviting your friends" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0K0-5g-Hdb">
+                                <rect key="frame" x="113" y="252" width="195" height="37.5"/>
+                                <fontDescription key="fontDescription" name="Axiforma-Medium" family="Axiforma" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="k7R-l1-W1B">
+                                <rect key="frame" x="16" y="338.5" width="382" height="56"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="56" id="GZK-s2-7SA"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Your Invite Code" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vql-ns-ycN">
+                                <rect key="frame" x="20" y="317.5" width="103.5" height="16.5"/>
+                                <fontDescription key="fontDescription" name="Axiforma-Regular" family="Axiforma" pointSize="14"/>
+                                <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gjt-Kb-j2E">
+                                <rect key="frame" x="353" y="351.5" width="36" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="36" id="1LO-XX-AEa"/>
+                                    <constraint firstAttribute="height" constant="30" id="FGZ-bT-dYX"/>
+                                </constraints>
+                                <state key="normal" title="Copy">
+                                    <color key="titleColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="copyCode:" destination="jHL-kp-PBk" eventType="touchUpInside" id="xbf-Mz-xLH"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="D4x-yA-qAy">
+                                <rect key="frame" x="24" y="410.5" width="366" height="56"/>
+                                <color key="backgroundColor" name="enableYellowBtnColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="56" id="Miw-NB-2HK"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
+                                <state key="normal" title="Invite Friends">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="inviteFriends:" destination="jHL-kp-PBk" eventType="touchUpInside" id="ySo-nl-R7y"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="feD-Bz-rGD"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="0K0-5g-Hdb" firstAttribute="top" secondItem="X3z-pF-Z6m" secondAttribute="bottom" constant="20" id="0fC-uH-jCp"/>
+                            <constraint firstItem="vql-ns-ycN" firstAttribute="top" secondItem="0K0-5g-Hdb" secondAttribute="bottom" constant="28" id="3ay-DM-sC9"/>
+                            <constraint firstItem="X3z-pF-Z6m" firstAttribute="top" secondItem="feD-Bz-rGD" secondAttribute="top" constant="64" id="4bn-Lb-oSe"/>
+                            <constraint firstItem="k7R-l1-W1B" firstAttribute="top" secondItem="0K0-5g-Hdb" secondAttribute="bottom" constant="49" id="6YT-Xo-2ng"/>
+                            <constraint firstItem="k7R-l1-W1B" firstAttribute="leading" secondItem="feD-Bz-rGD" secondAttribute="leading" constant="16" id="AFY-rl-xdS"/>
+                            <constraint firstItem="X3z-pF-Z6m" firstAttribute="centerX" secondItem="qaE-2A-nHA" secondAttribute="centerX" id="BD8-bA-y38"/>
+                            <constraint firstItem="feD-Bz-rGD" firstAttribute="trailing" secondItem="0K0-5g-Hdb" secondAttribute="trailing" constant="106" id="HG8-0F-wtj"/>
+                            <constraint firstItem="feD-Bz-rGD" firstAttribute="trailing" secondItem="D4x-yA-qAy" secondAttribute="trailing" constant="24" id="IOd-gP-yZL"/>
+                            <constraint firstItem="D4x-yA-qAy" firstAttribute="leading" secondItem="feD-Bz-rGD" secondAttribute="leading" constant="24" id="LDH-Y6-7Oz"/>
+                            <constraint firstItem="vql-ns-ycN" firstAttribute="leading" secondItem="feD-Bz-rGD" secondAttribute="leading" constant="20" id="Mce-7B-ttL"/>
+                            <constraint firstItem="D4x-yA-qAy" firstAttribute="top" secondItem="k7R-l1-W1B" secondAttribute="bottom" constant="16" id="NX6-pv-wxl"/>
+                            <constraint firstItem="0K0-5g-Hdb" firstAttribute="leading" secondItem="feD-Bz-rGD" secondAttribute="leading" constant="113" id="dMC-rV-qnx"/>
+                            <constraint firstItem="D4x-yA-qAy" firstAttribute="top" secondItem="gjt-Kb-j2E" secondAttribute="bottom" constant="29" id="jCs-vq-CM4"/>
+                            <constraint firstItem="feD-Bz-rGD" firstAttribute="trailing" secondItem="k7R-l1-W1B" secondAttribute="trailing" constant="16" id="jKt-2Z-BWl"/>
+                            <constraint firstItem="feD-Bz-rGD" firstAttribute="trailing" secondItem="gjt-Kb-j2E" secondAttribute="trailing" constant="25" id="txx-9x-CFw"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="referCode" destination="k7R-l1-W1B" id="kft-io-vad"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="5NI-Pd-OK4" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1114.4927536231885" y="675"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="ReferAFriend" width="468" height="468"/>
+        <namedColor name="enableYellowBtnColor">
+            <color red="1" green="0.75300002098083496" blue="0.2630000114440918" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

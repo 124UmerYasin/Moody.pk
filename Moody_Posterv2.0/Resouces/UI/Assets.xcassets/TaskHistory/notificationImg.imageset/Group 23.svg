@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>A8E53572-8EB2-455B-B3F3-D1E45D147CE7</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="15.3225806" cy="15.3225806" r="15.3225806"></circle>
+        <filter x="-21.2%" y="-17.9%" width="142.4%" height="142.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.880915987   0 0 0 0 0.880915987   0 0 0 0 0.880915987  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Task-history-update" transform="translate(-196.000000, -123.000000)">
+            <g id="Group-2" transform="translate(200.000000, 122.000000)">
+                <g id="Group-23" transform="translate(0.000000, 3.818859)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <circle stroke="#DEE2ED" stroke-width="0.8" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" cx="15.3225806" cy="15.3225806" r="14.9225806"></circle>
+                    </g>
+                    <g id="message-square" transform="translate(9.429280, 9.429280)" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7">
+                        <path d="M12.9652605,8.64350703 C12.9652605,9.43911988 12.3202889,10.0840915 11.524676,10.0840915 L2.88116901,10.0840915 L0,12.9652605 L0,1.44058451 C0,0.644971652 0.644971652,0 1.44058451,0 L11.524676,0 C12.3202889,0 12.9652605,0.644971652 12.9652605,1.44058451 L12.9652605,8.64350703 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

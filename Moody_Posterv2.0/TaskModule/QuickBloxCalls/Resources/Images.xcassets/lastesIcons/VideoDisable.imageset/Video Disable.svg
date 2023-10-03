@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Video Disable</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Video-Disable">
+            <circle id="Oval-Copy-13" fill="#CCCCCC" cx="26" cy="26" r="26"></circle>
+            <g id="videocam_black_24dp-(1)-copy-2" transform="translate(10.000000, 10.000000)">
+                <polygon id="Path" points="0 0 32 0 32 32 0 32"></polygon>
+                <path d="M22.6666667,14 L22.6666667,9.33333333 C22.6666667,8.6 22.0666667,8 21.3333333,8 L5.33333333,8 C4.6,8 4,8.6 4,9.33333333 L4,22.6666667 C4,23.4 4.6,24 5.33333333,24 L21.3333333,24 C22.0666667,24 22.6666667,23.4 22.6666667,22.6666667 L22.6666667,18 L28,23.3333333 L28,8.66666667 L22.6666667,14 Z" id="Path" fill="#858585" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

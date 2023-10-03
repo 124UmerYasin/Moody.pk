@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "rating"; ObjectID = "1Id-CK-j1D"; */
+"1Id-CK-j1D.text" = "درجہ بندی";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "5Rx-Oc-uep"; */
+"5Rx-Oc-uep.text" = "اطلاعات";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "8kW-GC-7Ql"; */
+"8kW-GC-7Ql.text" = "صارف کا نام";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "BLg-sF-2Vh"; */
+"BLg-sF-2Vh.text" = "مدد";
+
+/* Class = "UILabel"; text = "App Version 11.21 (11 21)"; ObjectID = "Fyn-tb-1NX"; */
+"Fyn-tb-1NX.text" = "App Version 11.21 (11 21)";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "IeD-aF-0dQ"; */
+"IeD-aF-0dQ.text" = "صارف کا نام";
+
+/* Class = "UILabel"; text = "Refer a Friend"; ObjectID = "Pk6-pc-TiR"; */
+"Pk6-pc-TiR.text" = "دوست کا حوالہ دیں";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "X5E-WT-dkd"; */
+"X5E-WT-dkd.text" = "ترتیبات";
+
+/* Class = "UILabel"; text = "Find a Tasker"; ObjectID = "g3w-vH-zfU"; */
+"g3w-vH-zfU.text" = "ٹاسکر تلاش کریں";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "kdE-EA-oDa"; */
+"kdE-EA-oDa.text" = "لاگ آوٹ";
+
+/* Class = "UILabel"; text = "App Version 11.21 (11 21)"; ObjectID = "mdu-lc-e7l"; */
+"mdu-lc-e7l.text" = "App Version 11.21 (11 21)";
+
+/* Class = "UILabel"; text = "rating"; ObjectID = "nIr-hV-brG"; */
+"nIr-hV-brG.text" = "درجہ بندی";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "qOd-wV-cUX"; */
+"qOd-wV-cUX.text" = "مدد";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "rlT-mV-zlr"; */
+"rlT-mV-zlr.text" = "لاگ آوٹ";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "tgF-en-NEB"; */
+"tgF-en-NEB.text" = "ترتیبات";
+
+/* Class = "UILabel"; text = "Refer a Friend"; ObjectID = "zsu-zN-uc5"; */
+"zsu-zN-uc5.text" = "دوست کا حوالہ دیں";
+
+"CSq-lu-J0r.text" = "مہینے کا انتخاب کریں";
+"2uS-1i-Lxc.text" = "موڈی مدد";
+"Yxx-aY-sP3.text" = "سوال پوچھیں";
+"s60-vM-FpU.text" = "اپنا سوال درج کریں";
+"hYl-9i-KTf.text" = "برائے مہربانی ذیل میں سوال کا مضمون لکھیں";
+"nUA-zV-9LW.normalTitle" = "بھیجیں";
+//"dRc-a3-GTi.text" = "ٹکٹ";
+//"3Ea-NL-ZVm.text" = "حالت";
+"Ufj-Ep-SZb.text" = "ٹکٹ کی کوئی تاریخ نہیں ملی";
+
+"C5L-7s-zYz.text" = "استعمال کرنے کا طریقہ";

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>5EB310AD-D739-4381-B0CD-313B88AC243A</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Settings-1" transform="translate(-92.000000, -106.000000)">
+            <g id="Group" transform="translate(31.000000, 51.000000)">
+                <g id="Group-6" transform="translate(61.000000, 55.000000)">
+                    <circle id="Oval" fill="#FFFFFF" cx="14" cy="14" r="14"></circle>
+                    <circle id="Oval-Copy-6" stroke="#F6C863" fill="#F6C863" cx="14" cy="14" r="12"></circle>
+                    <g id="camera" transform="translate(8.000000, 9.000000)" stroke="#215549" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12,8.88888889 C12,9.50253861 11.5115834,10 10.9090909,10 L1.09090909,10 C0.488416637,10 0,9.50253861 0,8.88888889 L0,2.77777778 C0,2.16412806 0.488416637,1.66666667 1.09090909,1.66666667 L3.27272727,1.66666667 L4.36363636,0 L7.63636364,0 L8.72727273,1.66666667 L10.9090909,1.66666667 C11.5115834,1.66666667 12,2.16412806 12,2.77777778 L12,8.88888889 Z" id="Shape"></path>
+                        <ellipse id="Oval" cx="6" cy="5.55555556" rx="2.18181818" ry="2.22222222"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

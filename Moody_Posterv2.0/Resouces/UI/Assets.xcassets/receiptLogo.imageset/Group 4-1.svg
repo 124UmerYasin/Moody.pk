@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 54.1 (76490) - https://sketchapp.com -->
+    <title>FBEED55C-81F3-4EA5-AD26-931E120F301E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+        <filter x="-15.6%" y="-11.5%" width="131.2%" height="131.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.716768569   0 0 0 0 0.702646261   0 0 0 0 0.702646261  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chat-Screen-Tasker-(1)-Copy---New" transform="translate(-287.000000, -413.000000)">
+            <g id="Group-19" transform="translate(169.000000, 288.000000)">
+                <g id="Group-4" transform="translate(123.000000, 128.000000)">
+                    <g id="Group-7">
+                        <g id="Group-6">
+                            <g id="Oval-Copy">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use stroke="#08D491" stroke-width="1" fill="#08D491" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="add-(1)" transform="translate(13.000000, 13.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M9.72490766,0 L0.884101351,0 C0.395817568,0 0,0.395817568 0,0.884101351 L0,9.72495946 C0,10.2132432 0.395817568,10.6090608 0.884101351,10.6090608 L9.72495946,10.6090608 C10.2132432,10.6090608 10.6090608,10.2132432 10.6090608,9.72495946 L10.6090608,0.884101351 C10.609009,0.395817568 10.2131914,0 9.72490766,0 Z" id="Path"></path>
+                        <path d="M22.1021194,0 L13.2612613,0 C12.7729775,0 12.3771599,0.395817568 12.3771599,0.884101351 L12.3771599,9.72495946 C12.3771599,10.2132432 12.7729775,10.6090608 13.2612613,10.6090608 L22.1021194,10.6090608 C22.5904032,10.6090608 22.9862207,10.2132432 22.9862207,9.72495946 L22.9862207,0.884101351 C22.9861689,0.395817568 22.5903514,0 22.1021194,0 Z" id="Path"></path>
+                        <path d="M9.72490766,12.3771599 L0.884101351,12.3771599 C0.395817568,12.3771599 0,12.7729775 0,13.2612613 L0,22.1021194 C0,22.5904032 0.395817568,22.9862207 0.884101351,22.9862207 L9.72495946,22.9862207 C10.2132432,22.9862207 10.6090608,22.5904032 10.6090608,22.1021194 L10.6090608,13.2612613 C10.609009,12.7729775 10.2131914,12.3771599 9.72490766,12.3771599 Z" id="Path"></path>
+                        <path d="M22.1021194,16.7976149 L18.5657658,16.7976149 L18.5657658,13.2612613 C18.5657658,12.7729775 18.1699482,12.3771599 17.6816644,12.3771599 C17.1933806,12.3771599 16.7975631,12.7729775 16.7975631,13.2612613 L16.7975631,16.7976149 L13.2612613,16.7976149 C12.7729775,16.7976149 12.3771599,17.1934324 12.3771599,17.6817162 C12.3771599,18.17 12.7729775,18.5657658 13.2612613,18.5657658 L16.7976149,18.5657658 L16.7976149,22.1021194 C16.7976149,22.5904032 17.1934324,22.9862207 17.6817162,22.9862207 C18.17,22.9862207 18.5658176,22.5904032 18.5658176,22.1021194 L18.5658176,18.5657658 L22.1021712,18.5657658 C22.590455,18.5657658 22.9862725,18.1699482 22.9862725,17.6816644 C22.9862725,17.1933806 22.5903514,16.7976149 22.1021194,16.7976149 Z" id="Path" stroke="#FFFFFF" stroke-width="0.5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

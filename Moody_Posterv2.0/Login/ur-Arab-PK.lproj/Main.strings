@@ -1,0 +1,106 @@
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "in4-4S-Nn5"; */
+"in4-4S-Nn5.normalTitle" = "جاری  رکھيں";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "nj6-hi-XCW"; */
+"nj6-hi-XCW.normalTitle" = "جاری  رکھيں";
+
+/* Class = "UILabel"; text = "Enter your mobile number, to create an account or log in"; ObjectID = "ny2-u9-saY"; */
+"ny2-u9-saY.text" = " اپنا اکاؤنٹ بنانے کے لئے اپنا موبائل نمبر درج کریں";
+
+/* Class = "UITextField"; placeholder = "304 2345678"; ObjectID = "kpi-eY-5K1"; */
+"kpi-eY-5K1.placeholder" = "موبائل نمبر";
+
+/* Class = "UILabel"; text = "Please enter valid mobile number"; ObjectID = "eoQ-4W-ohP"; */
+"eoQ-4W-ohP.text" = "براہ کرم درست موبائل نمبر درج کریں";
+
+/* Class = "UILabel"; text = "Enter your mobile number"; ObjectID = "bUY-pw-Mnq"; */
+"bUY-pw-Mnq.text" =  "اپنا موبائل نمبر درج کیجئے";
+
+
+
+/* Class = "UILabel"; text = "Phone Verification"; ObjectID = "Jmm-v1-qMQ"; */
+"Jmm-v1-qMQ.text" = "فون نمبر کی تصدیق";
+
+/* Class = "UILabel"; text = "Verification code is sent!"; ObjectID = "dpa-hv-mBz"; */
+"dpa-hv-mBz.text" = "تصدیقی کوڈ بھیجا گیا ہے";
+
+/* Class = "UILabel"; text = "A verification code has been sent to"; ObjectID = "XvE-8U-Nfq"; */
+"XvE-8U-Nfq.text" = "تصدیقی کوڈ بھیج دیا گیا ہے";
+
+/* Class = "UILabel"; text = "Send again OTP"; ObjectID = "O1s-ZG-itQ"; */
+"O1s-ZG-itQ.text" = "دوبارہ او ٹی پی بھیجیں";
+
+/* Class = "UIButton"; normalTitle = "Send again OTP"; ObjectID = "88I-R9-e8u"; */
+"88I-R9-e8u.normalTitle" = "دوبارہ او ٹی پی بھیجیں";
+
+/* Class = "UILabel"; text = "Please enter correct verification code"; ObjectID = "AVC-dX-VXx"; */
+"AVC-dX-VXx.text" = "براہ کرم درست توثیقی کوڈ درج کریں";
+
+
+
+
+/* Class = "UILabel"; text = "Enter your name for our records."; ObjectID = "3xU-Kp-rpd"; */
+"3xU-Kp-rpd.text" = "اپنا اکاؤنٹ بنانے کے لئے اپنا پورا نام درج کریں";
+
+/* Class = "UITextField"; placeholder = "Enter your name here"; ObjectID = "1eE-vf-Gcg"; */
+"1eE-vf-Gcg.placeholder" = "دعوتی کوڈ";
+
+/* Class = "UILabel"; text = "Enter Your Name"; ObjectID = "Nr2-Pn-LbM"; */
+"Nr2-Pn-LbM.text" =  "دعوت نامہ درج کریں";
+
+
+
+
+/* Class = "UILabel"; text = "Choose Language"; ObjectID = "2LB-pc-3ep"; */
+"2LB-pc-3ep.text" = "زبان کا انتخاب کریں";
+
+/* Class = "UILabel"; text = "Select your desire language"; ObjectID = "PCK-rN-1mQ"; */
+"PCK-rN-1mQ.text" = "براہ کرم آگے بڑھنے کے لئے اپنی مطلوبہ زبان منتخب کریں";
+
+/* Class = "UITextField"; placeholder = "-"; ObjectID = "Wto-fD-aS4"; */
+"Wto-fD-aS4.placeholder" = "-";
+
+/* Class = "UILabel"; text = "+92 322 1003484"; ObjectID = "X01-4H-ydh"; */
+"X01-4H-ydh.text" = "+92 322 1003484";
+
+/* Class = "UILabel"; text = "Urdu"; ObjectID = "jg7-ci-60w"; */
+"jg7-ci-60w.text" = "اردو";
+
+/* Class = "UILabel"; text = "+92"; ObjectID = "nXf-f1-CeW"; */
+"nXf-f1-CeW.text" = "+92";
+
+/* Class = "UITextField"; placeholder = "-"; ObjectID = "uFY-1O-wQU"; */
+"uFY-1O-wQU.placeholder" = "-";
+
+/* Class = "UITextField"; placeholder = "-"; ObjectID = "v5A-2r-B9c"; */
+"v5A-2r-B9c.placeholder" = "-";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "x3T-U4-hyh"; */
+"x3T-U4-hyh.text" = "English";
+
+/* Class = "UILabel"; text = "Urdu"; ObjectID = "bm8-Eh-pgF"; */
+"bm8-Eh-pgF.text" = "اردو";
+
+
+"YgT-ZN-gIU.normalTitle" = "آگے";
+
+"JGK-w2-AIG.text" = "میں متفق ہوں";
+
+"Zqi-R5-Gep.text" = "شرائط و ضواب";
+
+"wv1-gZ-Zqi.text" = "اپنا نام درج کریں";
+
+"dOt-HN-Nil.text" = "ہمارے ریکارڈ کے لیے یہاں اپنا نام درج کریں۔";
+
+"hbs-qR-QgD.text" = "نام کا فیلڈ خالی ہے";
+
+"pN6-UG-Inf.normalTitle" = "آگے";
+
+"in4-4S-Nn5.normalTitle" = "آگے";
+
+"dkO-K8-IyE.normalTitle" = "چھوڑ دو";
+
+"sDz-fe-DK8.placeholder" = "نام";
+
+"hvD-mt-U6b.normalTitle" = "مدد حاصل کرو";

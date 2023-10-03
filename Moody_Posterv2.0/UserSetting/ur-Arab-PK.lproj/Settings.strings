@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "0e1-Hq-W9m"; */
+"0e1-Hq-W9m.text" = "زبان منتخب کریں";
+
+/* Class = "UILabel"; text = "Please select your desired language in order to proceed further"; ObjectID = "1Hg-x5-J8C"; */
+"1Hg-x5-J8C.text" = "آگے بڑھنے کے لیے اپنی مطلوبہ\n زبان منتخب کریں";
+
+/* Class = "UILabel"; text = "Rate the App"; ObjectID = "2c2-Fh-7Ny"; */
+"2c2-Fh-7Ny.text" = "ایپ کو ريٹ کریں";
+
+/* Class = "UILabel"; text = "Account Settings"; ObjectID = "49I-1F-HYF"; */
+"49I-1F-HYF.text" =  "اکاؤنٹ سیٹنگز";
+
+/* Class = "UITextField"; placeholder = "  Type Name Here"; ObjectID = "8wt-PC-GnI"; */
+"8wt-PC-GnI.placeholder" = " یہاں نام ٹائپ کری";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "Cnc-QX-egU"; */
+"Cnc-QX-egU.normalTitle" = "انگریزی";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "Di3-1W-vOL"; */
+"Di3-1W-vOL.text" = "زبان";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "Gki-pR-AqZ"; */
+"Gki-pR-AqZ.text" = "صارف کا نام";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "HSc-IY-Zht"; */
+"HSc-IY-Zht.text" = "موبائل نمبر";
+
+/* Class = "UILabel"; text = "rating"; ObjectID = "J5i-0o-FpM"; */
+"J5i-0o-FpM.text" = "درجہ بندی";
+
+/* Class = "UITextField"; placeholder = "user name"; ObjectID = "PIV-bh-QHu"; */
+"PIV-bh-QHu.placeholder" = "صارف کا نام";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "Smr-VA-CnW"; */
+"Smr-VA-CnW.text" = "نام";
+
+/* Class = "UIButton"; normalTitle = "  Email"; ObjectID = "VCs-tz-ftc"; */
+"VCs-tz-ftc.normalTitle" = "ای میل";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "X8Z-iB-65Y"; */
+"X8Z-iB-65Y.text" = "ذاتی معلومات";
+
+/* Class = "UILabel"; text = "Urdu"; ObjectID = "Yif-HG-mxU"; */
+"Yif-HG-mxU.text" = "اردو";
+
+/* Class = "UILabel"; text = "Enter or update your personal information "; ObjectID = "cGs-14-c7i"; */
+"cGs-14-c7i.text" = "اپنی ذاتی معلومات درج کریں یا\n اپ ڈیٹ کریں";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "eJd-8f-AFS"; */
+"eJd-8f-AFS.text" = "ای ميل (اختیاری)";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "eps-Bf-gVg"; */
+"eps-Bf-gVg.text" = "فون نمبر";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "gzs-nd-KvD"; */
+"gzs-nd-KvD.text" = "جنرل";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "imS-Hd-pTl"; */
+"imS-Hd-pTl.placeholder" = "ای میل";
+
+/* Class = "UITextField"; placeholder = "304 2345678"; ObjectID = "jpp-YY-lpe"; */
+"jpp-YY-lpe.placeholder" = "304 2345678";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "l4g-mQ-Sfe"; */
+"l4g-mQ-Sfe.text" = "نام";
+
+/* Class = "UILabel"; text = "Email (optional)"; ObjectID = "pQE-44-Clf"; */
+"pQE-44-Clf.text" = "ای میل (اختیاری)";
+
+/* Class = "UIButton"; normalTitle = "Save Updates"; ObjectID = "q25-Wx-wQq"; */
+"q25-Wx-wQq.normalTitle" = "اپ ڈیٹ محفوظ کریں";
+
+/* Class = "UIButton"; normalTitle = "  User Name"; ObjectID = "qTp-L0-pmh"; */
+"qTp-L0-pmh.normalTitle" = "صارف کا نام";
+
+/* Class = "UIButton"; normalTitle = "Save Updates"; ObjectID = "tCo-FN-S8V"; */
+"tCo-FN-S8V.normalTitle" = "اپ ڈیٹ محفوظ کریں";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "uOF-rB-fEE"; */
+"uOF-rB-fEE.text" = "ذاتی معلومات";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "vE9-Q9-hod"; */
+"vE9-Q9-hod.placeholder" = "ای میل درج کریں";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "vkl-U8-KGo"; */
+"vkl-U8-KGo.text" = "انگریزی";
+
+/* Class = "UILabel"; text = "03231234567"; ObjectID = "w0i-q6-n5z"; */
+"w0i-q6-n5z.text" = "03231234567";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "zWq-lw-Z8F"; */
+"zWq-lw-Z8F.text" = "زبان";

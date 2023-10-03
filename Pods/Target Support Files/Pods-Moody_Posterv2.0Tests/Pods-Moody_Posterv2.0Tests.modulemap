@@ -1,0 +1,6 @@
+framework module Pods_Moody_Posterv2_0Tests {
+  umbrella header "Pods-Moody_Posterv2.0Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

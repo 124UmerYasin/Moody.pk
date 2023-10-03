@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>092BE0EC-ED14-4F59-8731-C7CE4716C5D7</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30" rx="15"></rect>
+        <path d="M21.9287203,9.05210721 C21.8664005,8.99726586 21.777713,8.98454233 21.7025442,9.01952154 L8.12109457,15.3507166 C8.04797657,15.384814 8.00089142,15.4580058 8,15.5388821 C7.99913358,15.6197584 8.04467015,15.693958 8.11707664,15.7296091 L11.9606059,17.6220978 C12.0310872,17.656825 12.1151289,17.6489725 12.1780766,17.6017737 L15.9150469,14.7994896 L12.9813701,17.827102 C12.9395167,17.8703116 12.9181714,17.9294781 12.9227753,17.9895264 L13.2148706,21.8061236 C13.2213579,21.8906952 13.2778601,21.9630052 13.3581769,21.989502 C13.3796477,21.9965567 13.4017045,22 13.4235101,22 C13.4833187,22 13.541495,21.974259 13.5819673,21.9272281 L15.621989,19.5554445 L18.1438695,20.7643898 C18.1986139,20.7906347 18.26198,20.7917265 18.3176033,20.7674552 C18.3732265,20.743142 18.4155822,20.6958591 18.4337466,20.6378264 L21.9903704,9.27285836 C22.0152314,9.19349377 21.9909982,9.10694857 21.9287203,9.05210721 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chat-screen-support" transform="translate(-314.000000, -581.000000)">
+            <g id="Group-5" transform="translate(314.000000, 581.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Base" fill="#215549" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Send" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

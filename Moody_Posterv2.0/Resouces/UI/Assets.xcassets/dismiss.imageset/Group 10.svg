@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>6810968F-5902-4B06-AF1F-295C86504F22</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="27.5" cy="27.5" r="27.5"></circle>
+        <filter x="-12.7%" y="-9.1%" width="125.5%" height="125.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.716768569   0 0 0 0 0.702646261   0 0 0 0 0.702646261  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chat-screen---add-button" transform="translate(-285.000000, -480.000000)">
+            <g id="Group-10" transform="translate(289.000000, 482.000000)">
+                <g id="Group">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFC043" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <path d="M37.4928846,36.0453704 C38.1690385,36.7211429 38.1690385,37.817302 37.4928846,38.4930745 C37.1548077,38.831153 36.7121154,39 36.2690385,39 C35.8259615,39 35.3832692,38.831153 35.0451923,38.4930745 L27.9998077,31.447656 L20.9548077,38.4930745 C20.6167308,38.831153 20.1740385,39 19.7305769,39 C19.2878846,39 18.8451923,38.831153 18.5071154,38.4930745 C17.8309615,37.817302 17.8309615,36.7211429 18.5071154,36.0453704 L25.5521154,28.9999519 L18.5071154,21.9545334 C17.8309615,21.278761 17.8309615,20.1826018 18.5071154,19.5068294 C19.1832692,18.8310569 20.2786538,18.8310569 20.9548077,19.5068294 L27.9998077,26.5522478 L35.0451923,19.5068294 C35.7213462,18.8310569 36.8167308,18.8310569 37.4928846,19.5068294 C38.1690385,20.1826018 38.1690385,21.278761 37.4928846,21.9545334 L30.4478846,28.9999519 L37.4928846,36.0453704 Z" id="Fill-1-Copy" stroke="#333333" stroke-width="0.4" fill="#333333"></path>
+            </g>
+        </g>
+    </g>
+</svg>

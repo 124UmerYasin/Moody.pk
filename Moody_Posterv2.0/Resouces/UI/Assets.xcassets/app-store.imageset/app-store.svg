@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="112px" viewBox="0 0 112 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 54.1 (76490) - https://sketchapp.com -->
+    <title>D20C9F1A-BEC7-4A6B-90B6-14408DFC56D9</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M50.875,64 L13.125,64 C5.887875,64 0,58.112125 0,50.875 L0,13.125 C0,5.887875 5.887875,0 13.125,0 L50.875,0 C58.112125,0 64,5.887875 64,13.125 L64,50.875 C64,58.112125 58.112125,64 50.875,64 Z" id="path-1"></path>
+        <filter x="-62.5%" y="-50.0%" width="225.0%" height="225.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.584313725   0 0 0 0 0.615686275   0 0 0 0 0.647058824  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Moody--Modal-Box-Apple" transform="translate(-124.000000, -176.000000)">
+            <g id="app-store" transform="translate(148.000000, 192.000000)">
+                <g id="Path">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#00C3FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group" transform="translate(10.625000, 13.125000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M9.081125,36.189375 C8.503,37.19075 7.450375,37.751125 6.3695,37.75125 C5.839625,37.75125 5.303125,37.616625 4.81225,37.33325 L4.81225,37.33325 C3.32,36.47175 2.806875,34.55675 3.668375,33.0645 L4.283,32 L11.499875,32 L9.081125,36.189375 Z" id="Path"></path>
+                    <path d="M3.1875,29.5 C1.464375,29.5 0.0625,28.098125 0.0625,26.375 C0.0625,24.651875 1.464375,23.25 3.1875,23.25 L9.33475,23.25 L17.7665,8.64575 L15.481375,4.68775 C14.619875,3.1955 15.132875,1.2805 16.625125,0.418875 L16.62525,0.418875 C18.1175,-0.442625 20.0325,0.070625 20.894,1.56275 L21.375,2.395875 L21.856,1.562875 C22.717875,0.0705 24.632875,-0.4425 26.12475,0.419 C26.847625,0.836375 27.36475,1.51025 27.58075,2.3165 C27.796875,3.12275 27.685875,3.965 27.2685,4.687875 L16.551625,23.25 L23.3115,23.25 L26.92,29.5 L3.1875,29.5 Z" id="Path"></path>
+                </g>
+                <g id="Group" transform="translate(33.000000, 24.125000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M17.1875,18.5 L14.648625,18.5 L16.7065,22.064375 C17.568125,23.5565 17.055,25.4715 15.562875,26.333125 C15.08125,26.611125 14.54675,26.75325 14.00525,26.75325 C13.73375,26.75325 13.46075,26.717625 13.191375,26.645375 C12.385,26.42925 11.711125,25.912125 11.29375,25.189125 L0.44325,6.395625 L4.051625,0.145625 L11.04025,12.25 L17.1875,12.25 C18.910625,12.25 20.3125,13.651875 20.3125,15.375 C20.3125,17.098125 18.910625,18.5 17.1875,18.5 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

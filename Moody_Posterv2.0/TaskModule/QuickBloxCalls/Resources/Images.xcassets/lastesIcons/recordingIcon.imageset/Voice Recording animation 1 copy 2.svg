@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 137 137" style="enable-background:new 0 0 137 137;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#D3D3D3;}
+
+#layer_1{
+animation: layer_1-anim 2s infinite;
+animation-duration:1.6 s;
+s
+<!-- animation-timing-function: cubic-bezier(0.61, 0.04, 0.43, 1); -->
+animation-timing-function: cubic-bezier(1, 1, 1, 1);
+opacity:1;
+transform:scale(1);
+transform:position(1);
+}
+
+@keyframes layer_1-anim{
+ 33% { 
+ opacity:1; 
+ }
+  33%,66% { 
+  opacity:0;
+  }
+  66%,100% { 
+  opacity:1;
+  }
+
+  50% { scale:0.5;}
+  51%,100% {scale:1;}
+  }
+
+#Layer_4{
+animation: Layer_4-anim 2s infinite;
+animation-duration:1.6s;
+<!-- animation-timing-function: cubic-bezier(0.61, 0.04, 0.43, 1); -->
+animation-timing-function: cubic-bezier(1, 1, 1, 1);
+opacity:0;
+transform:scale(1);
+transform-origin: center center;
+}
+
+@keyframes Layer_4-anim{
+
+
+0% { 
+  
+  transform:scale(0);
+  opacity:1;
+  }
+ 85% { 
+  opacity:0.5;
+  transformscale(1);
+  }
+
+    100% { 
+  opacity:0;
+  transformscale(1);
+  }
+  }
+
+#Layer_2_1_{
+animation: Layer_2_1_-anim 2s infinite;
+animation-duration:1.6s;
+<!-- animation-timing-function: cubic-bezier(0.61, 0.04, 0.43, 1); -->
+animation-timing-function: cubic-bezier(1, 1, 1, 1);
+opacity:0;
+transform:scale(1);
+transform-origin: center center;
+}
+
+@keyframes Layer_2_1_-anim{
+
+
+0% { 
+  
+  transform:scale(0);
+  opacity:1;
+  }
+
+    85% { 
+  opacity:0.5;
+  transformscale(1);
+  }
+
+    100% { 
+  opacity:0;
+  transformscale(1);
+  }
+  }
+</style>
+<g id="Layer_2_1_">
+	<circle id="Oval-Copy-13" class="st0" cx="68.5" cy="68.5" r="68.5"/>
+</g>
+<g id="Layer_4">
+	<circle id="Oval-Copy-11" class="st0" cx="69" cy="69" r="53"/>
+</g>
+<g id="Layer_3">
+	<circle id="Oval-Copy-11_1_" class="st0" cx="69" cy="69" r="36.4"/>
+</g>
+</svg>

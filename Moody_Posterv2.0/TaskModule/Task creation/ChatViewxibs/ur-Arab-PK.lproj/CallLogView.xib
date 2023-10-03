@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="30" id="KGk-i7-Jjw" customClass="CallLogView" customModule="Moody_pk" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="30"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="30"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ty1-tw-uCE">
+                        <rect key="frame" x="5" y="0.0" width="310" height="30"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" tag="1234" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="missedCall" translatesAutoresizingMaskIntoConstraints="NO" id="YqB-jh-eqr">
+                                <rect key="frame" x="39" y="5" width="20" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="C5G-fS-fev"/>
+                                    <constraint firstAttribute="width" constant="20" id="RZP-zz-U1R"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" tag="34" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Missed Call By Poster at 14:35" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="sfs-se-EsW" propertyAccessControl="localizable">
+                                <rect key="frame" x="67" y="8" width="176" height="14.5"/>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="12"/>
+                                <color key="textColor" name="AppTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="sfs-se-EsW" firstAttribute="leading" secondItem="YqB-jh-eqr" secondAttribute="trailing" constant="8" id="Npl-b0-duN"/>
+                            <constraint firstItem="sfs-se-EsW" firstAttribute="centerY" secondItem="Ty1-tw-uCE" secondAttribute="centerY" id="Zuj-Jw-y9A"/>
+                            <constraint firstItem="YqB-jh-eqr" firstAttribute="centerY" secondItem="sfs-se-EsW" secondAttribute="centerY" id="aFS-tB-cfi"/>
+                            <constraint firstItem="sfs-se-EsW" firstAttribute="centerX" secondItem="Ty1-tw-uCE" secondAttribute="centerX" id="mMd-7i-CrM"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="Ty1-tw-uCE" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="5" id="COY-ub-nza"/>
+                    <constraint firstAttribute="bottom" secondItem="Ty1-tw-uCE" secondAttribute="bottom" id="Hm9-1x-8xp"/>
+                    <constraint firstItem="Ty1-tw-uCE" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="Wpt-QB-rZo"/>
+                    <constraint firstAttribute="trailing" secondItem="Ty1-tw-uCE" secondAttribute="trailing" constant="5" id="xAo-eX-ZLY"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="callLogImage" destination="YqB-jh-eqr" id="jv2-eM-DhF"/>
+                <outlet property="callLogLabel" destination="sfs-se-EsW" id="mSp-L5-1zj"/>
+                <outlet property="myView" destination="Ty1-tw-uCE" id="7CU-1E-Pgs"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="89.732142857142847"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="missedCall" width="24" height="24"/>
+        <namedColor name="AppTextColor">
+            <color red="0.20000000298023224" green="0.20000000298023224" blue="0.20000000298023224" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

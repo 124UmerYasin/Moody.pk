@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Active Voice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Active-Voice">
+            <circle id="Oval-Copy-11" fill="#0B9777" cx="26" cy="26" r="26"></circle>
+            <g id="mic_black_24dp-(1)-copy" transform="translate(10.000000, 10.000000)">
+                <polygon id="Path" points="0 0 32 0 32 32 0 32"></polygon>
+                <path d="M16,18.6666667 C18.2133333,18.6666667 19.9866667,16.88 19.9866667,14.6666667 L20,6.66666667 C20,4.45333333 18.2133333,2.66666667 16,2.66666667 C13.7866667,2.66666667 12,4.45333333 12,6.66666667 L12,14.6666667 C12,16.88 13.7866667,18.6666667 16,18.6666667 Z M23.0666667,14.6666667 C23.0666667,18.6666667 19.68,21.4666667 16,21.4666667 C12.32,21.4666667 8.93333333,18.6666667 8.93333333,14.6666667 L6.66666667,14.6666667 C6.66666667,19.2133333 10.2933333,22.9733333 14.6666667,23.6266667 L14.6666667,28 L17.3333333,28 L17.3333333,23.6266667 C21.7066667,22.9866667 25.3333333,19.2266667 25.3333333,14.6666667 L23.0666667,14.6666667 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

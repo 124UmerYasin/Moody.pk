@@ -1,0 +1,111 @@
+
+/* Class = "UILabel"; text = "Tell us what you want to buy"; ObjectID = "1p2-eV-LwS"; */
+"1p2-eV-LwS.text" = "ہمیں بتائیں کہ آپ کیا خریدنا چاہتے ہیں";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "3SI-Gn-MM0"; */
+"3SI-Gn-MM0.normalTitle" = "منسوخ کریں ";
+
+/* Class = "UILabel"; text = "Find a Tasker"; ObjectID = "7gV-5j-lha"; */
+"7gV-5j-lha.text" = "ٹاسکر تلاش کریں";
+
+/* Class = "UITabBarItem"; title = "Wallet"; ObjectID = "8AR-Uw-pd6"; */
+"8AR-Uw-pd6.title" = "والیٹ";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "9a5-ZP-ux8"; */
+"9a5-ZP-ux8.title" = "پروفائل";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "C2Z-Sr-QKu"; */
+"C2Z-Sr-QKu.text" = "اطلاعات";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "C6S-SL-B73"; */
+"C6S-SL-B73.text" = "ترتیبات";
+
+/* Class = "UIButton"; normalTitle = "Start Task"; ObjectID = "ECM-Av-pId"; */
+"ECM-Av-pId.normalTitle" = "ٹاسک شروع کریں";
+
+/* Class = "UILabel"; text = "App Version 11.21 (1121)"; ObjectID = "Eyx-UQ-skb"; */
+"Eyx-UQ-skb.text" = "App Version 11.21 (1121)";
+
+/* Class = "UILabel"; text = "Avail the dicount by using \"Go moody Go\""; ObjectID = "Iuw-Ar-Fvq"; */
+"Iuw-Ar-Fvq.text" = "گو موڈی گو\" کا استعمال کرکے ڈسکاونٹ حاصل کریں\"";
+
+/* Class = "UILabel"; text = "Refer a Friend"; ObjectID = "KUd-cV-2NM"; */
+"KUd-cV-2NM.text" = "دوست کا حوالہ دیں";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "MCF-vo-lxW"; */
+"MCF-vo-lxW.text" = "مدد";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "MJH-eH-ZuR"; */
+"MJH-eH-ZuR.text" = "صارف کا نام";
+
+/* Class = "UILabel"; text = "Rs: 1000"; ObjectID = "MoP-mD-Agm"; */
+"MoP-mD-Agm.text" = "Rs: 1000";
+
+/* Class = "UILabel"; text = "rating"; ObjectID = "OL7-i2-Wbc"; */
+"OL7-i2-Wbc.text" = "درجہ بندی";
+
+/* Class = "UITabBarItem"; title = "Task History"; ObjectID = "SsK-GV-ct1"; */
+"SsK-GV-ct1.title" = "ٹاسک کی تاریخ";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "VIB-GR-64C"; */
+"VIB-GR-64C.title" = "گھر";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "VfY-CC-eOo"; */
+"VfY-CC-eOo.normalTitle" = "جمع کرائیں";
+
+/* Class = "UILabel"; text = "Discount Offer"; ObjectID = "WJZ-ed-9cK"; */
+"WJZ-ed-9cK.text" = "ڈسکاؤنٹ آفر";
+
+/* Class = "UILabel"; text = "Tap Mic, and start recording your task."; ObjectID = "XwC-CH-u5E"; */
+"XwC-CH-u5E.text" = "مائک پر ٹیپ کریں اور وائس میسج کے ذريعے ٹاسک ریکارڈ کريں";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bJR-Mh-FQs"; */
+"bJR-Mh-FQs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "fci-b0-3fx"; */
+"fci-b0-3fx.normalTitle" = "شروع کریں";
+
+/* Class = "UIButton"; normalTitle = "Send Request    >"; ObjectID = "go5-E1-n4F"; */
+"go5-E1-n4F.normalTitle" = "ریکویسٹ بھیجیں";
+
+/* Class = "UIButton"; normalTitle = "Return to active task"; ObjectID = "vNx-GF-vmv"; */
+"vNx-GF-vmv.normalTitle" = "اپنے ایکٹو ٹاسک پہ واپس جائیں";
+
+/* Class = "UILabel"; text = "Tap start to record the task"; ObjectID = "iDh-FF-cJv"; */
+"iDh-FF-cJv.text" = "کام کو ریکارڈ کرنے کے لئے ٹیپ اسٹارٹ کریں";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "llV-6s-Uf6"; */
+"llV-6s-Uf6.title" = "گھر";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "o30-X3-sXV"; */
+"o30-X3-sXV.normalTitle" = "منسوخ";
+
+/* Class = "UITabBarItem"; title = "Wallet"; ObjectID = "opL-gn-kE1"; */
+"opL-gn-kE1.title" = "والیٹ";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "pWw-Uc-0OE"; */
+"pWw-Uc-0OE.title" = "پروفائل";
+
+/* Class = "UILabel"; text = "Discount Deals"; ObjectID = "rPF-O3-5T9"; */
+"rPF-O3-5T9.text" = "ڈسکاؤنٹ ڈیل";
+
+/* Class = "UILabel"; text = "You have ongoing task."; ObjectID = "t0w-Ub-UGi"; */
+"t0w-Ub-UGi.text" = "آپ کا کام جاری ہے";
+
+/* Class = "UITabBarItem"; title = "Task History"; ObjectID = "xGd-ee-5MK"; */
+"xGd-ee-5MK.title" = "ٹاسک کی تاریخ";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "yNN-BI-i5r"; */
+"yNN-BI-i5r.text" = "لاگ آوٹ";
+
+"adO-0s-hxA.normalTitle" = "شروع کریں";
+
+"XUl-3E-Js4.normalTitle" = "دوبارہ چلائیں";
+
+"Lqj-CA-hlb.text" = "زیادہ سے زیادہ 30 سیکنڈ";
+
+//"lKd-dJ-TI8.text" = "کام شروع کرنے کے لئے ہائے موڈی سے کہیں۔"
+
+
+"Ol0-jP-eRh.normalTitle" = "منسوخ";
+"qoT-qr-DKB.normalTitle" = "درخواست بھیجیں";

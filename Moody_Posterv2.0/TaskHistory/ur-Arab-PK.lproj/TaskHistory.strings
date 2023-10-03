@@ -1,0 +1,91 @@
+
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "2XX-HR-BsG"; */
+"2XX-HR-BsG.text" = "حالت";
+
+/* Class = "UILabel"; text = "Amount Received"; ObjectID = "3E2-OR-0Hm"; */
+"3E2-OR-0Hm.text" = "رقم ادا کر دی";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "3EX-6w-Olj"; */
+"3EX-6w-Olj.text" = "مقام";
+
+/* Class = "UIButton"; normalTitle = "See Task Map"; ObjectID = "6ik-Jp-suR"; */
+"6ik-Jp-suR.normalTitle" = "ٹاسک کا نقشہ دیکھیں";
+
+/* Class = "UILabel"; text = "Rs 0"; ObjectID = "Ijn-av-pa4"; */
+"Ijn-av-pa4.text" = "Rs 0";
+
+/* Class = "UILabel"; text = "Choose Month"; ObjectID = "InX-7C-NAc"; */
+"InX-7C-NAc.text" = "ٹاسک کی تاریخ";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "J3V-WU-6WH"; */
+"J3V-WU-6WH.text" = "-";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "JnB-wg-ANT"; */
+"JnB-wg-ANT.text" = "-";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "LDT-Hz-iCN"; */
+"LDT-Hz-iCN.text" = "تاریخ";
+
+/* Class = "UILabel"; text = "Moody Charges"; ObjectID = "OcG-u9-tMV"; */
+"OcG-u9-tMV.text" = "موڈی چارجز";
+
+/* Class = "UILabel"; text = "End Time"; ObjectID = "PEz-gE-drj"; */
+"PEz-gE-drj.text" = "وقت کا اختتام";
+
+/* Class = "UILabel"; text = "Start Time"; ObjectID = "W1t-6M-bsz"; */
+"W1t-6M-bsz.text" = "وقت آغاز";
+
+/* Class = "UILabel"; text = "No Task History"; ObjectID = "XjK-vh-8d8"; */
+"XjK-vh-8d8.text" = "ٹاسک کی کوئی تاریخ نہیں";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "cyz-2s-zCm"; */
+"cyz-2s-zCm.text" = "-";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "ffD-VN-EaX"; */
+"ffD-VN-EaX.text" = "درجہ بندی";
+
+/* Class = "UILabel"; text = "JAN"; ObjectID = "gEw-41-GOe"; */
+"gEw-41-GOe.text" = "جنوری";
+
+/* Class = "UILabel"; text = "Rs 0"; ObjectID = "jWG-Pr-gRQ"; */
+"jWG-Pr-gRQ.text" = "Rs 0";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "q0l-i8-7Qz"; */
+"q0l-i8-7Qz.text" = "-";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "qMf-0q-oWm"; */
+"qMf-0q-oWm.text" = "-";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "tNj-ap-qkX"; */
+"tNj-ap-qkX.text" = "کل فاصلہ";
+//
+/* Class = "UILabel"; text = "Discount"; ObjectID = "uTS-Jk-Ghi"; */
+"uTS-Jk-Ghi.text" = "چھوٹ";
+
+/* Class = "UILabel"; text = "Total Time"; ObjectID = "aJP-2A-k8L"; */
+"aJP-2A-k8L.text" = "مکمل وقت";
+
+
+"vjS-SP-KsO.text" = "ٹاسک آئی ڈی";
+
+
+"zIg-C3-w3L.normalTitle" = "چیٹ دیکھیں";
+//for chat
+//اپنے تجربے کی درجہ بندی کریں
+//بند کریں
+
+"ztc-nF-4wh.text" = "وقت آغاز";
+"F7K-CN-eaN.text" = "وقت کا اختتام";
+"V11-Ca-iQe.text" = "مکمل وقت";
+"sXT-hQ-K4f.text" = "کل فاصلہ";
+"j4C-Il-gZD.text" = "موڈی چارجز";
+"HWp-ws-VAV.text" = "ادا کی گئی کل رقم";
+"1qx-v3-nmA.text" = " رسید";
+"Ytp-yL-vMt.text" = "ٹاسک آئی ڈی";
+"epi-xD-WNb.text" = "ادائیگی کی قسم";
+"Wrt-g7-QXt.text" = "ڈسکاؤنٹ کے بعد قابل ادائیگی";
+"iEe-bL-k36.text" = "مصنوعات کی قیمت";
+"Jsl-1e-NUr.text" = "چھوٹ";
+
+

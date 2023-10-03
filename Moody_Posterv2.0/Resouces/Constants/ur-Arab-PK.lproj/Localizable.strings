@@ -1,0 +1,405 @@
+/* 
+  Localizable.strings
+  Moody_Posterv2.0
+
+  Created by   on 14/07/2021.
+  
+*/
+
+
+"Camera" = "کیمرہ";
+"Gallery" = "گیلری";
+"Cancel" = "منسوخ کریں";
+"Save Changes" = "تبدیلیاں محفوظ کرو";
+"Settings" = "ترتیبات";
+"English" = "انگریزی";
+"Urdu" = "اردو";
+"Success" = "کامیابی";
+"Empty Fields" = "خالی جگہیں";
+"Changes Updated Successfully" = "تبدیلیاں کامیابی کے ساتھ اپ ڈیٹ ہوگئیں";
+"Blank Elements are required" = "خالی عناصر کی ضرورت ہے";
+"Done" = "ہو گیا";
+"Cancel" = "منسوخ کریں";
+"Today" = "آج";
+"Yesterday" = "کل";
+"Last 30 Days" = "آخری 30 دن";
+"Last 7 Days" = "آخری 7 دن";
+"Last Month" = "پچھلے مہینے";
+"This Month" = "اس مہینے";
+"Custom" = "اپنی مرضی کے مطابق";
+"easypaisa" = "easypaisa";
+"jazz" = "jazz";
+"jazzcash" = "jazzcash";
+"Please send" = "بھیجیں";
+"to our EasyPaisa account." = "ہمارے ایسی پیسہ اکاؤنٹ میں";
+"to our Jazz account." = "ہمارے جاز اکاؤنٹ میں";
+"Payment Method" = "ادائیگی کا طریقہ";
+"Customer Support" = "کسٹمر سپورٹ";
+"Poster Name" = "پوسٹر کا نام";
+"Receive Amount" = "رقم وصول کریں";
+"Tasker Location" = "ٹاسکر مقام";
+"Tasker" = "ٹاسکر";
+"Poster" = "پوسٹر";
+"Me" = "میں";
+"Task Location" = "ٹاسک مقام";
+"Fare" = "کرایہ";
+"Type Your Message Here" = "یہاں اپنا پیغام لکھو";
+"Attach Media" = "میڈیا منسلک کریں";
+"What would you like to attach?" = "آپ کیا منسلک کرنا چاہیں گے؟";
+"Send" = "بھیجیں";
+"Error" = "خرابی";
+"Please Allow" = "براہ کرم اجازت دیں";
+"Free Rides" = "مفت سواریوں";
+"Go Offline!" = "اف لائن ہوجائو!";
+"Go Online!" = "آن لائن جاؤ!";
+"Verification Code Sent To " = "توثیقی کوڈ بھیج دیا گیا ہے";
+"Please Enter Correct Verification Code" = "براہ کرم درست توثیقی کوڈ درج کریں";
+"Email" = "ای میل";
+"Both" = "دونوں";
+"End Task" = "ٹاسک ختم کریں";
+"Browse" = "تلاش کریں";
+"Task History" = "ٹاسک کی تاریخ";
+"Free Rides" = "مفت سواریوں";
+"Verification code is sent!" = "توثیقی کوڈ بھیجا گیا ہے!";
+//"Resend OTP" = "دوبارہ او ٹی پی بھیجیں";
+"Send OTP" = "OTP بھیجیں";
+"Wrong OTP" = "غلط اوٹی پی۔";
+
+"Please Select an Option" = "براہ کرم ایک آپشن منتخب کریں";
+"Mobile Number Only" = "صرف موبائل نمبر";
+"Mobile Number and Email" = "موبائل نمبر اور ای میل";
+"Top Up Through" = "ٹاپ اپ کے ذریعے";
+"Moody Wallet Balance" = "موڈی والیٹ بیلنس";
+"Pay Through" = "کے ذریعے ادائیگی کریں";
+"Total Task Charges" = "کل ٹاسک چارجز";
+"See Transactions" = "لین دین دیکھیں";
+"I have Transfered RS:" = "میں نے منتقلی کی ہے: RS ";
+"Please Recharge your account to proceede." = "براہ کرم آگے بڑھنے کے لئے اپنے اکاؤنٹ کو ری چارج کریں۔";
+"Your Wallet Balance Is Low." = "آپ کے بٹوے کا بیلنس کم ہے۔";
+"No Internet Available." = "انٹرنیٹ دستیاب نہیں ہے۔";
+"No Internet Connection. Please Try again later when internet is available" = "براہ کرم اپنا انٹرنیٹ کنکشن چیک کریں۔";
+
+"Remove Image" = "تصویر ہٹائیں";
+
+"Tap Mic, and start \n recording your task." = " مائک پر ٹیپ کریں اور وائس میسج کے ذريعے ٹاسک ریکارڈ کريں
+";
+//"مائک پر ٹیپ کریں اور وائس میسج کے ذريعے ٹاسک ریکارڈ کريں";
+
+
+"Something Went Wrong.try Again Later" = "براہ کرم دوبارہ کوشش کریں";
+"Something Went Wrong. Please try again." = "براہ کرم دوبارہ کوشش کریں";
+
+"Maximum Limit of Voice Message is 30 Seconds" = " وائس میسج کی زیادہ سے زیادہ حد 30 سیکنڈ ہے";
+
+"Please Try Again Later" = "براہ کرم کچھ دیر بعد کوشش کریں";
+
+
+"JAN" = "جنوری";
+"FEB" = "فروری";
+"MAR" = "مارچ";
+"APR" = "اپریل";
+"MAY" = "مئی";
+"JUN" = "جون";
+"JUL" = "جولائی";
+"AUG" = "اگست";
+"SEP" = "ستمبر";
+"OCT" = "اکتوبر";
+"NOV" = "نومبر";
+"DEC" = "دسمبر";
+
+"Ok" = "ٹھیک ہے";
+"Okay" = "ٹھیک ہے";
+"OK" = "ٹھیک ہے";
+
+"Are you sure you want to leave Help?" = "کیا آپ واقعی مدد چھوڑنا چاہتے ہیں؟";
+
+"Are you sure you want to finish the task?" = "کیا آپ واقعی کام ختم کرنا چاہتے ہیں؟";
+
+"Confirm" = "تصدیق کریں";
+
+"Yes, Finish" = "ہاں ، ختم";
+
+
+"Not satisfied by tasker’s performance" = "ٹاسکر کی کارکردگی سے مطمئن نہیں";
+
+"The tasker's behaviour was not good" = "ٹاسکر کا سلوک تھااچھا نہیں";
+
+"The tasker took too long" = "ٹاسکر نے بہت لمبا وقت لیا ";
+
+"Start time" =  "وقت کا آغاز";
+"End time" = "وقت کا اختتام";
+
+"Please send your desired amount \n to our JazzCash account." = "براہ کرم اپنی مطلوبہ رقم ہمارے جازکیش اکاؤنٹ میں بھیجیں۔";
+"Please send your desired amount \n to our Easypaisa account." = "براہ کرم اپنی مطلوبہ رقم ہمارے ایزی پیسہ اکاؤنٹ میں بھیجیں";
+"Please send your desired amount to your Moody Wallet." = "براہ کرم اپنی مطلوبہ رقم اپنے موڈی والیٹ کو بھیجیں۔";
+
+"has been deducted from your account as task fare." = "ٹاسک کرایہ کے طور پر آپ کے اکاؤنٹ سے کٹوتی کردی گئی ہے۔";
+
+"Enter the amount you want to pay via Rider" = "وہ رقم درج کریں جو آپ سوار کے ذریعے ادا کرنا چاہتے ہیں";
+
+"After sending the amount tap the below button" = "رقم بھیجنے کے بعد نیچے والے بٹن کو تھپتھپائیں";
+
+"Please Check Your Internet Conncetion" = " براہ کرم اپنے انٹرنیٹ کنسٹیشن چیک کریں ";
+
+"Camera Unavailable." = "کیمرا دستیاب نہیں۔";
+
+"Camera not available or not working." = "کیمرا دستیاب نہیں ہے یا کام نہیں کررہا ہے۔";
+
+"Invalid Amount" = "غلط رقم";
+
+"The transfer amount should be atleast Pkr 500." = "منتقلی کی رقم کم از کم Pkr 500 ہونی چاہئے۔" ;
+
+"Upload Failed" = "اپ لوڈناکام";
+
+"The maximum size of file should be 5MB" = "فائل کا زیادہ سے زیادہ سائز 5MB ہونا چاہئے" ;
+"Please select image of size less then 5mb." = "راہ کرم 5mb سے کم سائز کی تصویر منتخب کریں";
+
+"Username can not be empty" = "صارف نام خالی نہیں ہوسکتا";
+
+"Username can only contain letters" = "صارف نام میں صرف حرف ہوسکتے ہیں";
+
+"Email can not be empty" = "ای میل خالی نہیں ہوسکتا";
+
+"Plaese enter a valid email address" = "برائے مہربانی  ایک درست ای میل ایڈریس درج کریں";
+
+"You have running task in chat. Please complete the task first and then Logout." = "چیٹ میں آپ کا کام چل رہا ہے۔ براہ کرم پہلے کام کو مکمل کریں اور پھر لاگ آؤٹ.";
+
+"Task in Procces" = "کام جاری ہے";
+
+"Finding Tasker" = "ٹاسکر کی تلاش ";
+
+"Moody Chat" = "موڈی چیٹ";
+
+"You have currently one Active Task. Tap Mic, Track your task" = "آپ کے پاس فی الحال ایک ٹاسک چل رہا ہے۔ مائک پر ٹیپ کریں ، اپنے کام کو ٹریک کریں ";
+
+"Tap Mic, to go back to your ongoing task" = "اپنے جاری کام پر واپس جانے کے لئے مائک پر ٹیپ کریں";
+
+"Time:" = "وقت:";
+
+
+"You Have Applied for top worth RS: " = "آپ نے رقم کے لئے درخواست دی ہے";
+
+"and your location is" = "اور آپ کا مقام ہے";
+
+"Please wait..." = "برائے مہربانی انتظار کریں...";
+
+"Please Wait we are finding a tasker for you." = "براہ کرم انتظار کریں ہم آپ کے لئے ٹاسکر ڈھونڈ رہے ہیں۔";
+
+"Thank you for your patience. Now a tasker has been assigned to you. We hope you have a great experience with Moody." = "آپ کے صبر کے لئے آپ کا شکریہ کہ آپ کا ٹاسکر آپ کو تفویض کیا گیا ہے۔ اب آپ ٹاسکر کے ساتھ چیٹ کرسکتے ہیں اور اپنی استفسار کروا سکتے ہیں۔";
+
+"Alert" = "انتباہ";
+
+"Your task has been cancelled due to some abnormal Demeands" = "آپ کا کام کچھ غیر معمولی تقاضوں کی وجہ سے منسوخ کردیا گیا ہے۔";
+
+"has been deducted from your accountnt as the task fare." = "ٹاسک کرایہ کے طور پر آپ کے اکاؤنٹنٹ سے کٹوتی کردی گئی ہے۔";
+
+"Message not Send please Try again Later" = "پیغام نہیں ھیجا جاسکا براہ کرم دوبارہ کوشش کریں";
+
+"Cannot open image." = "تصویر نہیں کھل سکی";
+
+"Cannot notify this message please try again later." = "اس پیغام کو مطلع نہیں کیا جاسکتا ہے براہ کرم دوبارہ کوشش کریں۔";
+
+"Hi, What Brings you to Customer Support?" = "یہ کسٹمر سپورٹ ہے۔ ہم آپ کی مدد کیسے کر سکتے ہیں";
+
+"View More" = "مزید دیکھیں";
+
+"The user cannot request for a new task. Please complete your currently active task first." = "صارف نئے کام کی درخواست نہیں کرسکتا۔ براہ کرم پہلے اپنا فعال کام مکمل کریں";
+
+"Invalid location. Please restart your location services." = "غلط مقام۔ براہ کرم اپنی محل وقوع کی خدمات کو دوبارہ شروع کریں۔";
+
+"Pickup Location" = "منزل";
+
+"Initial Location" = "ابتدائی مقام";
+
+"Ending Location" = "اختتامی مقام";
+
+"Transaction History" = "ٹرانزیکشن کی تاریخ" ;
+
+"You have poor internet connection." = "انٹرنیٹ کنسٹیشن ناقص ہے۔";
+"A tasker has been assigned to you" = "ایک ٹاسکر آپ کو تفویض کیا گیا ہے";
+
+"Confirmation" = "تصدیق";
+
+"Are you sure you want to create a new query?" = "کیا آپ واقعی ایک نیا استفسار بنانا چاہتے ہیں؟";
+
+"Yes" = "جی ہاں";
+
+"No" = "نہیں";
+
+"Need Camera Access" = "کیمرے تک رسائی کی ضرورت ہے";
+
+"Camera access is required to capture picture." = "تصویر پر قبضہ کرنے کے لئے کیمرے تک رسائی ضروری ہے۔";
+
+"Allow Camera" = "کیمرا کی اجازت دیں";
+
+"A verification code has been sent to " = "ایک توثیقی کوڈ بھیجا گیا ہے";
+
+"Are you sure you want to Cancel the task?" =  "کیا آپ واقعی کام منسوخ کرنا چاہتے ہیں؟";
+
+"  Username" = "صارف نام";
+
+"  Email" = "ای میل";
+
+"Save" = "محفوظ کریں";
+
+"Discard" = "ضائع کریں";
+
+"Moody Account" = "موڈی اکاؤنٹ";
+
+
+"Are you sure you want to logout?" = "کیا آپ واقعی لاگ آؤٹ کرنا چاہتے ہیں؟";
+
+"Logout" = "لاگ آوٹ";
+
+"has been Added to your Account as a Topup."  = "بطور ٹاپ اپ آپ کے اکاؤنٹ میں شامل کیا گیا ہے۔";
+
+"has been deducted from your accountnt as the task fare." =  "ٹاسک کرایہ کے طور پر آپ کے اکاؤنٹنٹ سے کٹوتی کردی گئی ہے۔";
+
+"Buy & Deliver" = "خرید و فروخت";
+ 
+"Tell us what you want to buy" = "ہمیں بتائیں کہ آپ کیا خریدنا چاہتے ہیں";
+
+"Pick & Deliver" = "اٹھاو اور ڈلیور کرو";
+
+"Help us pick and deliver your item for you" = "اپنی چیز کو چننے اور پہنچانے میں ہماری مدد کریں";
+
+"Ride Sharing" = "سواری کا اشتراک";
+
+"Where do you want to go" = "آپ کہاں جانا چاھتے ہیں";
+
+"Cash Delivery" = "کیش ڈلیوری";
+
+"Recharge your account at your doorstep" = "اپنے دروازے پر اپنے اکاؤنٹ کو ری چارج کریں";
+
+"Profile" = "پروفائل";
+
+"Home" = "ہوم";
+
+"Tap to record the task" = "کام کو ریکارڈ کرنے کے لئے ٹیپ کریں";
+
+"Dismiss" = "برخاست کریں";
+
+"History" = "ہسٹوری";
+
+"PKR "  = "روپے";
+
+"Please wait. We are finding a tasker for you." = "برائے مہربانی انتظار کریں. ہم آپ کے لئے ٹاسکر ڈھونڈ رہے ہیں۔";
+
+"You have applied for top your Moody Wallet." = "آپ نے اپنے موڈی والیٹ میں ٹاپ اپ کے لئے درخواست دی ہے۔";
+
+" has been deducted from your account as the task fare." = "ٹاسک کرایہ کے طور پر آپ کے اکاؤنٹ سے کٹوتی کردی گئی ہے۔";
+"To get the 20% discount say, “Go Moody Go” at the end of the task." = "20٪ کی رعایت حاصل کرنے کے لئے ، کام کے اختتام پر ، 'گو موڈی گو' کا کہنا ہے۔";
+
+"Say 'Hi Moody' to start the task." = "کام شروع کرنے کے لئے 'ہیلو موڈی' کہیں۔";
+
+"Top up amount should be between 500 and 10000" = "ٹاپ اپ کی رقم 500 اور 10000 کے درمیان ہونی چاہئے";
+
+"All the progress will be lost and a cancellation fee will be charged" = "ساری پیشرفت ختم ہو جائے گی اور منسوخی کی فیس لی جائے گی";
+
+"Confirm Cancellation!" = "منسوخی کی تصدیق کریں!";
+
+"Back" = "پیچھے";
+
+"Confirmation!" = "تصدیق!";
+
+"Not Now" = "ابھی نہیں";
+
+"Wallet" =  "والیٹ";
+
+"Hey, what brings you to customer support?" = "یہ کسٹمر سپورٹ ہے۔ ہم آپ کی مدد کیسے کر سکتے ہیں";
+
+"Our Easypaisa account is active on this number" = "ہمارا Easypaisa اکاؤنٹ اس نمبر پر فعال ہے";
+
+"Our JazzCash account is active on this number" =  "ہمارا JazzCash  اس نمبر پر فعال ہے";
+
+"Type Here" = "کمینٹ لکھيں";
+
+"Estimated Fare:" = "متوقع کرایہ:";
+
+"Session Expired" = "مدت ختم ہو گئی";
+
+"Please login again." = "براہ کرم دوبارہ لاگ ان کریں۔";
+"Enter your name" = "اپنا نام درج کریں";
+"Enter your email" = "اپنا ای میل درج کریں۔";
+
+"Resend OTP" = "دوبارہ او ٹی پی بھیجیں";
+"Please Downlaod whatsapp in your device" = "براہ کرم اپنے آلے میں واٹس ایپ ڈاؤن لوڈ کریں۔";
+"Profile updated successfully" = "پروفائل کامیابی سے اپ ڈیٹ ہو گیا۔";
+"Moody Support" = "موڈی سپورٹ۔";
+"Copied" = "نقل کیا گیا۔";
+"After sending the amount to Moody JazzCash account Click Below" = "موڈی جاز کیش اکاؤنٹ میں رقم بھیجنے کے بعد نیچے کلک کریں۔";
+"After sending the amount to Moody easypaisa account Click Below" = "موڈی ایزی پیسہ اکاؤنٹ میں رقم بھیجنے کے بعد نیچے کلک کریں۔";
+"Google Maps Not Found" = "گوگل میپس نہیں ملا۔";
+
+"Please go to app store and download google maps." = "براہ کرم ایپ اسٹور پر جائیں اور گوگل میپس ڈاؤن لوڈ کریں۔";
+
+"Internet Not Available. Please check your internet connection and try again." = "انٹرن دستیاب نہیں ہے۔ براہ کرم اپنا انٹرنیٹ کنکشن چیک کریں اور دوبارہ کوشش کریں۔";
+"Task ID: N/A" = "ٹاسک آئی ڈی: N / A";
+"Task ID:" = "ٹاسک آئی ڈی:";
+"Reference code copied" = "حوالہ کوڈ کاپی کیا گیا";
+"Active" = "فعال";
+"Cancelled" = "منسوخ";
+"cancelled" = "منسوخ";
+"Rs:" = "روپے";
+"Cancel   X" = "منسوخ کریں   X";
+"Message" = "پیغام";
+"Task Successfully cancelled." = "کام کامیابی سے منسوخ ہو گیا۔";
+"Confirm Cancellation" = "منسوخی کی تصدیق کریں";
+"Completed" = "مکمل";
+"Cancelled" = "منسوخ";
+"Sure To End?" = "ختم کرنے کا یقین؟";
+"* That is provided to you by Jazz cash after your successful transaction" = "* یہ آپ کو کامیاب ٹرانزیکشن کے بعد جاز کیش کے ذریعہ فراہم کیا گیا ہے۔";
+"* That is provided to you by Easypasia after your successful transaction" = "* یہ آپ کو آپ کے کامیاب لین دین کے بعدایزی پیسہ کے ذریعہ فراہم کیا گیا ہے";
+
+
+"Please send your desired amount \n to account via nearby Jazzcash shop." = "براہ کرم اپنی مطلوبہ رقم قریبی جاز کیش شاپ کے ذریعے اکاؤنٹ میں بھیجیں۔";
+
+"Please send your desired amount \n to our account via nearby easypaisa shop." =  "براہ کرم اپنی مطلوبہ رقم قریبی ایزی پیسہ شاپ کے ذریعے ہمارے اکاؤنٹ میں بھیجیں۔";
+
+"share" = "شیئر";
+
+"Are you sure want to share location." = "کیا آپ اپنے موجودہ مقام شیئر کرنا چاہتے ہیں";
+
+"Share Location!" = "مقام شیئر کریں!";
+"Share Your Location" = "مقام شیئر کریں";
+
+"Task History Map" = "ٹاسک ہسٹری کا نقشہ";
+"Max 30 second" = "زیادہ سے زیادہ 30 سیکنڈ";
+"Task Details" = "ٹاسک کی تفصیل";
+"Chat History" = "چیٹ کی تاریخ";
+"Transaction ID" = "ٹرانزیکشن آئی ڈی";
+"Invite a Friend" = "دوست کو مدعو کریں";
+" Transaction ID" = "ٹرانزیکشن آئی ڈی";
+"Tasker's Name" = "ٹاسکر کا نام";
+
+"Are you sure you want to end the task?" = "کیا آپ واقعی کام ختم کرنا چاہتے ہیں";
+"Are you sure you want to cancel the task?" = "کیا آپ واقعی کام منسوخ کرنا چاہتے ہیں";
+"Are you sure you want to end the task?" = " کیا آپ واقعی کام ختم کرنا چاہتے ہیں";
+"Submit" = "بھیجیں";
+"Enter your subject here" = "اپنا مضمون یہاں درج کریں۔";
+"Max 30 seconds." = ".زیادہ سے زیادہ 30 سیکنڈ";
+"Enter Amount" = "رقم درج کریں";
+"Close Ticket" = "ٹکٹ بند کریں";
+"Re-Open Ticket" = "ٹکٹ دوبارہ کھولیں";
+"Ticket #" = "ٹکٹ#";
+"Status" = "حالت";
+"Status:" = ":حالت:";
+"Task Fare" = "ٹاسک کرایہ";
+"Deposit" = "ڈپازٹ";
+"Promo Code" = "پرومو کوڈ";
+"Pending" = "زیر غور";
+"Closed" = "بند";
+"Open" = "کھلا";
+"Completed" = "مکمل";
+"Cancelled" = "منسوخ";
+"Window Shopping" = "ونڈو شاپنگ";
+"Top up" = "ٹاپ اپ" ;
+"Buy & Deliver" = "خریدیں اور فراہم کریں";
+"Pick & Deliver" = "منتخب کریں اور پہنچائیں";
+"Ride Sharing" = "رائڈ شیئرنگ";
+"Cash Delivery" = "کیش ڈلیوری" ;
+"Cancel Task" = "ٹاسک منسوخ کریں";
+"Are you sure you want to Open query" = "کیا آپ واقعی سوال کھولنا چاہتے ہیں";
+"Are you sure you want to Close query" = "کیا آپ واقعی سوال بند کرنا چاہتے ہیں";
+"Enter invitation Code" = "دعوت نامہ درج کریں";
+"No Product Receipt added by Tasker." = "ٹاسکر کے ذریعہ پروڈکٹ کی کوئی رسید شامل نہیں کی گئی۔";

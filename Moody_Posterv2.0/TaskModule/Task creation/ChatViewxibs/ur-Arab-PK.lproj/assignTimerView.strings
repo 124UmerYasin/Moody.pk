@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Please Wait !"; ObjectID = "PTS-Bt-CTu"; */
+"PTS-Bt-CTu.text" = "برائے مہربانی انتظار کریں";
+
+/* Class = "UILabel"; text = "We are finding a Tasker nearby you"; ObjectID = "T9O-fb-hN0"; */
+"T9O-fb-hN0.text" = "ہم آپ کے لیے ٹاسکر ڈھونڈ رہے ہیں۔";
+
+/* Class = "UILabel"; text = "--:--"; ObjectID = "izE-gS-g8d"; */
+"izE-gS-g8d.text" = "--:--";

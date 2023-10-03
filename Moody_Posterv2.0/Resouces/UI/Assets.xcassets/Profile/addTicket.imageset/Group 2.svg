@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>95DB7F01-909A-4C6D-ACB3-3D435A40117E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="27.5" cy="27.5" r="27.5"></circle>
+        <filter x="-12.7%" y="-9.1%" width="125.5%" height="125.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.716768569   0 0 0 0 0.702646261   0 0 0 0 0.702646261  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Support-" transform="translate(-276.000000, -564.000000)">
+            <g id="Group-2" transform="translate(280.000000, 566.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFC043" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M37.8571429,25.8571429 L30.5714286,25.8571429 C30.3347517,25.8571429 30.1428571,25.6652483 30.1428571,25.4285714 L30.1428571,18.1428571 C30.1428571,16.9594726 29.1833845,16 28,16 C26.8166155,16 25.8571429,16.9594726 25.8571429,18.1428571 L25.8571429,25.4285714 C25.8571429,25.6652483 25.6652483,25.8571429 25.4285714,25.8571429 L18.1428571,25.8571429 C16.9594726,25.8571429 16,26.8166155 16,28 C16,29.1833845 16.9594726,30.1428571 18.1428571,30.1428571 L25.4285714,30.1428571 C25.6652483,30.1428571 25.8571429,30.3347517 25.8571429,30.5714286 L25.8571429,37.8571429 C25.8571429,39.0405274 26.8166155,40 28,40 C29.1833845,40 30.1428571,39.0405274 30.1428571,37.8571429 L30.1428571,30.5714286 C30.1428571,30.3347517 30.3347517,30.1428571 30.5714286,30.1428571 L37.8571429,30.1428571 C39.0405274,30.1428571 40,29.1833845 40,28 C40,26.8166155 39.0405274,25.8571429 37.8571429,25.8571429 Z" id="Path" fill="#333333" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

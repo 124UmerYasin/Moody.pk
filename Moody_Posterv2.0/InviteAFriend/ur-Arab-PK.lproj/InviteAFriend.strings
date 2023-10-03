@@ -1,0 +1,13 @@
+
+/* Class = "UILabel"; text = "Get your free rides by inviting your friends"; ObjectID = "0K0-5g-Hdb"; */
+"0K0-5g-Hdb.text" = "اپنے دوستوں کو مدعو کرکے اپنی مفت سواری حاصل کریں";
+
+/* Class = "UIButton"; normalTitle = "Invite Friends"; ObjectID = "D4x-yA-qAy"; */
+"D4x-yA-qAy.normalTitle" = "دوستوں کو مدعو کریں";
+
+/* Class = "UIButton"; normalTitle = "Copy"; ObjectID = "gjt-Kb-j2E"; */
+"gjt-Kb-j2E.normalTitle" = "کاپی";
+
+/* Class = "UILabel"; text = "Your Invite Code"; ObjectID = "vql-ns-ycN"; */
+"vql-ns-ycN.text" = "آپ کا دعوت نامہ";
+

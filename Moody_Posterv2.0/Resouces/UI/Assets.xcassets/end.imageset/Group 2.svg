@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>F356E42D-5956-4941-A4D4-7D2B212E685F</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+        <filter x="-15.6%" y="-11.5%" width="131.2%" height="131.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.716768569   0 0 0 0 0.702646261   0 0 0 0 0.702646261  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chat-screen---add-button" transform="translate(-287.000000, -287.000000)">
+            <g id="Group-2" transform="translate(292.000000, 290.000000)">
+                <g id="Group-6">
+                    <g id="Oval-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use stroke="#CC0000" stroke-width="1" fill="#CC0000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <g id="remove-(2)" transform="translate(13.000000, 13.000000)" fill-rule="nonzero">
+                    <path d="M19.4791107,0 L2.52088929,0 C1.13027956,0 0,1.13027956 0,2.52088929 L0,19.4791107 C0,20.8697204 1.13027956,22 2.52088929,22 L19.4791107,22 C20.8697204,22 22,20.8697204 22,19.4791107 L22,2.52088929 C22,1.13027956 20.8697204,0 19.4791107,0 Z" id="Path" fill="#FFFFFF"></path>
+                    <path d="M16.860302,15.1382503 C17.3364211,15.614604 17.3364211,16.3855565 16.860302,16.8605721 C16.6228,17.0980799 16.3110368,17.2173913 15.9990505,17.2173913 C15.6872873,17.2173913 15.3755241,17.0980799 15.1380221,16.8605721 L11.4782609,13.2004989 L7.81849965,16.8605721 C7.58099764,17.0980799 7.26923445,17.2173913 6.9574712,17.2173913 C6.64548497,17.2173913 6.33372178,17.0980799 6.09621971,16.8605721 C5.62010068,16.3855565 5.62010068,15.614604 6.09621971,15.1382503 L9.75620398,11.4784002 L6.09621971,7.81855014 C5.62010068,7.34219649 5.62010068,6.57124399 6.09621971,6.09622838 C6.57256179,5.62009779 7.34215756,5.62009779 7.81849965,6.09622838 L11.4782609,9.75630153 L15.1380221,6.09622838 C15.6143642,5.62009779 16.3839599,5.62009779 16.860302,6.09622838 C17.3364211,6.57124399 17.3364211,7.34219649 16.860302,7.81855014 L13.2003178,11.4784002 L16.860302,15.1382503 Z" id="Path" fill="#CC0000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
